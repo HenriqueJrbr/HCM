@@ -1,0 +1,18 @@
+/*
+	Cria a tabela de foto
+*/
+DROP TABLE z_sga_grupo_programa_foto;
+CREATE TABLE z_sga_grupo_programa_foto SELECT * FROM z_sga_grupo_programa;
+
+DROP TABLE z_sga_grupos_foto;
+CREATE TABLE z_sga_grupos_foto SELECT * FROM z_sga_grupos;
+
+DROP TABLE z_sga_grupo_foto;
+CREATE TABLE z_sga_grupo_foto SELECT * FROM z_sga_grupo;
+
+Update z_sga_param_menu set descricao='Cartas de Riscos' where idMenu=51;
+Update z_sga_param_sub_categoria set descricao='Cartas de Riscos' where idSubCategoria=17;
+
+alter table z_sga_programas modify cod_programa varchar(70);
+alter table z_sga_apc_mtz_apps_processo modify codPrograma varchar(70);
+alter table z_sga_gest_mpr_dtsul modify codProgDtsul varchar(70);

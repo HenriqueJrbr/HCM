@@ -1,0 +1,354 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 30/06/2020 20:22:45
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 620
+API: token
+Class: ApiController
+Ambiente informado TOTVS: . Ambiente SGA: DEV
+Json: null
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 30/06/2020 20:22:46
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 606
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sisetma":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 30/06/2020 20:22:46
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 477
+API: gruposprogramas
+Class: ApiController
+Programa ab0101 atribuido ao grupo  com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM1NDg2MjYsImlhdCI6MTU5MzU0ODU2Nn0.DEaSkFaIYUuJG1GGSBFL6OkwrpdRYmQ5GiUbny01ecs",
+	"instancia":"1",
+	"sistema":"DATASUL",
+	"origem":"ERP",
+	"cod_programa":"ab0101",
+	"descricao_programa":"Par\u00e2metros Frota d",
+	"cod_modulo":"mab",
+	"especific":"N",
+	"upc":"",
+	"codigo_rotina":2,
+	"descricao_rotina":"Manuten\u00e7\u00e3o",
+	"registro_padrao":1,
+	"visualiza_menu":1,
+	"procedimento_pai":"ab0101",
+	"desc_abrev":"Coordenador de Back-Office",
+	"usrExecutor":"super",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 30/06/2020 20:23:17
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 620
+API: token
+Class: ApiController
+Ambiente informado TOTVS: . Ambiente SGA: DEV
+Json: null
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 30/06/2020 20:23:17
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 606
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sisetma":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 30/06/2020 20:23:17
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 477
+API: gruposprogramas
+Class: ApiController
+Programa ab0101 atribuido ao grupo BOC com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM1NDg2NTcsImlhdCI6MTU5MzU0ODU5N30.niXCC1U4vNjkDQ-s5bGd8vI13aSWu86kISljbtOzxi8",
+	"instancia":"1",
+	"sistema":"DATASUL",
+	"origem":"ERP",
+	"id_leg_grupo":"BOC",
+	"cod_programa":"ab0101",
+	"descricao_programa":"Par\u00e2metros Frota d",
+	"cod_modulo":"mab",
+	"especific":"N",
+	"upc":"",
+	"codigo_rotina":2,
+	"descricao_rotina":"Manuten\u00e7\u00e3o",
+	"registro_padrao":1,
+	"visualiza_menu":1,
+	"procedimento_pai":"ab0101",
+	"desc_abrev":"Coordenador de Back-Office",
+	"usrExecutor":"super",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 30/06/2020 20:28:46
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 606
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 30/06/2020 20:30:42
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 606
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 30/06/2020 20:30:53
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 606
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 30/06/2020 20:33:17
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 606
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 30/06/2020 20:51:26
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 620
+API: token
+Class: ApiController
+Ambiente informado TOTVS: . Ambiente SGA: DEV
+Json: null
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 30/06/2020 20:51:26
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 606
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sisetma":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 30/06/2020 20:51:26
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 477
+API: gruposprogramas
+Class: ApiController
+Programa ab0101 atribuido ao grupo BOC com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM1NTAzNDYsImlhdCI6MTU5MzU1MDI4Nn0.U6e_enCnP048aSArM15zJwjo65PO55bJkW7EYqnT2V0",
+	"instancia":"1",
+	"sistema":"DATASUL",
+	"origem":"ERP",
+	"id_leg_grupo":"BOC",
+	"cod_programa":"ab0101",
+	"descricao_programa":"Par\u00e2metros Frota d",
+	"cod_modulo":"mab",
+	"especific":"N",
+	"upc":"",
+	"codigo_rotina":2,
+	"descricao_rotina":"Manuten\u00e7\u00e3o",
+	"registro_padrao":1,
+	"visualiza_menu":1,
+	"procedimento_pai":"ab0101",
+	"desc_abrev":"Coordenador de Back-Office",
+	"usrExecutor":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 30/06/2020 21:11:10
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 620
+API: token
+Class: ApiController
+Ambiente informado TOTVS: . Ambiente SGA: DEV
+Json: null
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 30/06/2020 21:11:10
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 606
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sisetma":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 30/06/2020 21:11:10
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 477
+API: gruposprogramas
+Class: ApiController
+Programa ab0101 atribuido ao grupo BOC com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM1NTE1MzAsImlhdCI6MTU5MzU1MTQ3MH0.57buQN26YEEHNpp18blpbHNKAAP7znvpYo9FzOlrdoU",
+	"instancia":"1",
+	"sistema":"DATASUL",
+	"origem":"ERP",
+	"id_leg_grupo":"BOC",
+	"cod_programa":"ab0101",
+	"descricao_programa":"Par\u00e2metros Frota d",
+	"cod_modulo":"mab",
+	"especific":"N",
+	"upc":"",
+	"codigo_rotina":2,
+	"descricao_rotina":"Manuten\u00e7\u00e3o",
+	"registro_padrao":1,
+	"visualiza_menu":1,
+	"procedimento_pai":"ab0101",
+	"desc_abrev":"Coordenador de Back-Office",
+	"usrExecutor":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 30/06/2020 22:11:31
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 620
+API: token
+Class: ApiController
+Ambiente informado TOTVS: . Ambiente SGA: DEV
+Json: null
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 30/06/2020 22:11:31
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 606
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sisetma":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 30/06/2020 22:11:31
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 477
+API: gruposprogramas
+Class: ApiController
+Programa ab0101 atribuido ao grupo BOC com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM1NTUxNTEsImlhdCI6MTU5MzU1NTA5MX0.VXgjs3nZxsVysOdbxmeJ37JConwDLgEL0NrsOXYr-5U",
+	"instancia":"1",
+	"sistema":"DATASUL",
+	"origem":"ERP",
+	"id_leg_grupo":"BOC",
+	"cod_programa":"ab0101",
+	"descricao_programa":"Par\u00e2metros Frota d",
+	"cod_modulo":"mab",
+	"especific":"N",
+	"upc":"",
+	"codigo_rotina":2,
+	"descricao_rotina":"Manuten\u00e7\u00e3o",
+	"registro_padrao":1,
+	"visualiza_menu":1,
+	"procedimento_pai":"ab0101",
+	"desc_abrev":"Coordenador de Back-Office",
+	"usrExecutor":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+

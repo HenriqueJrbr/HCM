@@ -1,0 +1,51 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 31/07/2020 16:32:14
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 31/07/2020 17:16:15
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 31/07/2020 17:17:51
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+

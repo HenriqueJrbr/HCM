@@ -1,0 +1,1160 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:30:10
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:32:18
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:32:21
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 393
+API: programas
+Class: ApiController
+Programa bas_prog_dtsul atualizado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MTExOTgsImlhdCI6MTU5MzcxMTEzOH0.eHLNxmUBgajXzgdTzCxYecxqtMqaw7aa4-5qvEd4us0",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"instancia":2,
+	"cod_programa":"bas_prog_dtsul",
+	"descricao_programa":"Manuten\u00e7\u00e3o de Programa",
+	"cod_modulo":"MNU",
+	"descricao_modulo":"Menu",
+	"especific":"N",
+	"upc":"sga\\upc\\umen012aa-u00.p",
+	"codigo_rotina":2,
+	"descricao_rotina":"Manuten\u00e7\u00e3o",
+	"registro_padrao":true,
+	"visualiza_menu":true,
+	"procedimento_pai":"man_prog_dtsul"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:32:24
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:32:27
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 393
+API: programas
+Class: ApiController
+Programa bas_grp_usuar atualizado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MTEyMDQsImlhdCI6MTU5MzcxMTE0NH0.MetN5qMd9qOnPJwzCT395T1GaZGLGqaqsz-_SywFMlA",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"instancia":2,
+	"cod_programa":"bas_grp_usuar",
+	"descricao_programa":"Manuten\u00e7\u00e3o de Grupo de Seguran\u00e7a",
+	"cod_modulo":"sec",
+	"descricao_modulo":"Seguran\u00e7a",
+	"especific":"N",
+	"upc":"sga\\upc\\usec001aa-u00.p",
+	"codigo_rotina":2,
+	"descricao_rotina":"Manuten\u00e7\u00e3o",
+	"registro_padrao":true,
+	"visualiza_menu":true,
+	"procedimento_pai":"man_grp_usuar"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:35:14
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:35:17
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 393
+API: programas
+Class: ApiController
+Programa Esbc0105 atualizado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MTEzNzQsImlhdCI6MTU5MzcxMTMxNH0.AKy4NX9yK20lZpY3fo5PN9lVMQo2CMuKIoDiQFW1sk8",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"instancia":2,
+	"cod_programa":"Esbc0105",
+	"descricao_programa":"Associa\u00e7\u00e3o dos N\u00fameros Seriais dos Compo",
+	"cod_modulo":"MCP",
+	"descricao_modulo":"Producao",
+	"especific":"N",
+	"upc":"",
+	"codigo_rotina":2,
+	"descricao_rotina":"Manuten\u00e7\u00e3o",
+	"registro_padrao":true,
+	"visualiza_menu":true,
+	"procedimento_pai":"cp0301"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:35:58
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:36:18
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:36:55
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:36:58
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 270
+API: grupos
+Class: ApiController
+Grupo nao encontrado para essa instancia
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MTE0NzUsImlhdCI6MTU5MzcxMTQxNX0.RnrtwHiiFy6smOfptUeLXHI2exWpy6y_FtOPL5vLbNU",
+	"id_leg_grupo":"sup",
+	"desc_abrev":"supX",
+	"instancia":2,
+	"origem":"ERP",
+	"sistema":"DATASUL"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:38:26
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:38:29
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 393
+API: programas
+Class: ApiController
+Programa Esbc0105 atualizado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MTE1NjYsImlhdCI6MTU5MzcxMTUwNn0._VqcjKz8dmCWLBY_GKnkymPrWSvRfEAyiGVcQysIoHY",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"instancia":2,
+	"cod_programa":"Esbc0105",
+	"descricao_programa":"Associa\u00e7\u00e3o dos N\u00fameros Seriais dos Compo",
+	"cod_modulo":"MCP",
+	"descricao_modulo":"Producao",
+	"especific":"N",
+	"upc":"",
+	"codigo_rotina":2,
+	"descricao_rotina":"Manuten\u00e7\u00e3o",
+	"registro_padrao":true,
+	"visualiza_menu":true,
+	"procedimento_pai":"cp0301"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:38:42
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:39:08
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:42:10
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:42:14
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 270
+API: grupos
+Class: ApiController
+Grupo nao encontrado para essa instancia
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MTE3OTAsImlhdCI6MTU5MzcxMTczMH0.HFz9Ijc2GRB8Q_epn59MUJV8a7YCGvcbTmGD7lGolcI",
+	"id_leg_grupo":"sup",
+	"desc_abrev":"sup",
+	"instancia":2,
+	"origem":"ERP",
+	"sistema":"DATASUL"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:48:40
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:48:43
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 270
+API: grupos
+Class: ApiController
+Grupo nao encontrado para essa instancia
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MTIxODAsImlhdCI6MTU5MzcxMjEyMH0.zpzvO6G-OT0tNoLuLq20Z9xubaYo2mNSM68T1RFsb1k",
+	"id_leg_grupo":"sup",
+	"desc_abrev":"supX",
+	"instancia":2,
+	"origem":"ERP",
+	"sistema":"DATASUL"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:48:59
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:49:02
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 270
+API: grupos
+Class: ApiController
+Grupo nao encontrado para essa instancia
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MTIxOTksImlhdCI6MTU5MzcxMjEzOX0.JqR2Vic-g8-QcVy7h0ccPPfrhePSJX57JMvnErT0wrA",
+	"id_leg_grupo":"sup",
+	"desc_abrev":"sup",
+	"instancia":2,
+	"origem":"ERP",
+	"sistema":"DATASUL"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:51:00
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:51:03
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 178
+API: usuarios
+Class: ApiController
+Dados recuperado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MTIzMjAsImlhdCI6MTU5MzcxMjI2MH0.8Ai9aqGZKzc9QsZluUyZCynUqGQB9IOIwPUln7c8NJY",
+	"cod_usuario":"super",
+	"instancia":2,
+	"origem":"ERP",
+	"sistema":"DATASUL"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:51:06
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 194
+API: usuarios
+Class: ApiController
+Usuário super atualizado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MTIzMjAsImlhdCI6MTU5MzcxMjI2MH0.8Ai9aqGZKzc9QsZluUyZCynUqGQB9IOIwPUln7c8NJY",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"cod_usuario":"super",
+	"nome_usuario":"Super usuario",
+	"email":"super@super.com.br",
+	"instancia":2,
+	"ativo":"1",
+	"idusrfluig":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:52:10
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 17:52:13
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 393
+API: programas
+Class: ApiController
+Programa Esbc0105 atualizado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MTIzOTAsImlhdCI6MTU5MzcxMjMzMH0.v4bzZgzSfsjgSfU1VYacYh1oAlXywL6NOl7z2BbE3Wk",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"instancia":2,
+	"cod_programa":"Esbc0105",
+	"descricao_programa":"Associa\u00e7\u00e3o dos N\u00fameros Seriais dos Compo",
+	"cod_modulo":"MCP",
+	"descricao_modulo":"Producao",
+	"especific":"N",
+	"upc":"",
+	"codigo_rotina":2,
+	"descricao_rotina":"Manuten\u00e7\u00e3o",
+	"registro_padrao":true,
+	"visualiza_menu":true,
+	"procedimento_pai":"cp0301"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 19:36:00
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 19:36:11
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 178
+API: usuarios
+Class: ApiController
+Dados recuperado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MTg2MjAsImlhdCI6MTU5MzcxODU2MH0.ad5DNIFWW-LrAEpnNCl8Mx5w2CghgxOOrn7ejhnqq90",
+	"cod_usuario":"super",
+	"instancia":2,
+	"origem":"ERP",
+	"sistema":"DATASUL"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 19:36:14
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 194
+API: usuarios
+Class: ApiController
+Usuário super atualizado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MTg2MjAsImlhdCI6MTU5MzcxODU2MH0.ad5DNIFWW-LrAEpnNCl8Mx5w2CghgxOOrn7ejhnqq90",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"cod_usuario":"super",
+	"nome_usuario":"Super usuarioX",
+	"email":"super@super.com.br",
+	"instancia":2,
+	"ativo":"1",
+	"idusrfluig":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 19:40:52
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 19:41:02
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 178
+API: usuarios
+Class: ApiController
+Dados recuperado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MTg5MTIsImlhdCI6MTU5MzcxODg1Mn0.6Efwy_pf0tMIEI-OEJ9ed1gg1upzV7FkMA5ZcSDrpuM",
+	"cod_usuario":"super",
+	"instancia":2,
+	"origem":"ERP",
+	"sistema":"DATASUL"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 19:41:05
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 194
+API: usuarios
+Class: ApiController
+Usuário super atualizado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MTg5MTIsImlhdCI6MTU5MzcxODg1Mn0.6Efwy_pf0tMIEI-OEJ9ed1gg1upzV7FkMA5ZcSDrpuM",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"cod_usuario":"super",
+	"nome_usuario":"Super usuario",
+	"email":"super@super.com.br",
+	"instancia":2,
+	"ativo":"1",
+	"idusrfluig":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 19:43:53
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 19:44:02
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 178
+API: usuarios
+Class: ApiController
+Dados recuperado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MTkwOTMsImlhdCI6MTU5MzcxOTAzM30.9WdxFwLNQgsy4afhUxjFo7D2tJyPDtnyruhRjPqB90Y",
+	"cod_usuario":"super",
+	"instancia":2,
+	"origem":"ERP",
+	"sistema":"DATASUL"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 19:44:05
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 194
+API: usuarios
+Class: ApiController
+Usuário super atualizado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MTkwOTMsImlhdCI6MTU5MzcxOTAzM30.9WdxFwLNQgsy4afhUxjFo7D2tJyPDtnyruhRjPqB90Y",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"cod_usuario":"super",
+	"nome_usuario":"Super usuarioX",
+	"email":"super@super.com.br",
+	"instancia":2,
+	"ativo":"1",
+	"idusrfluig":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 20:57:31
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 20:57:40
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 178
+API: usuarios
+Class: ApiController
+Dados recuperado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MjM1MTEsImlhdCI6MTU5MzcyMzQ1MX0.T66e20FBP5HKsEu2vBptItPztjz-GV3RZc4oYr1rU0U",
+	"cod_usuario":"super",
+	"instancia":2,
+	"origem":"ERP",
+	"sistema":"DATASUL"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 20:57:43
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 194
+API: usuarios
+Class: ApiController
+Usuário super atualizado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MjM1MTEsImlhdCI6MTU5MzcyMzQ1MX0.T66e20FBP5HKsEu2vBptItPztjz-GV3RZc4oYr1rU0U",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"cod_usuario":"super",
+	"nome_usuario":"Super usuario",
+	"email":"super@super.com.br",
+	"instancia":2,
+	"ativo":"1",
+	"idusrfluig":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 20:58:19
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 20:58:23
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 178
+API: usuarios
+Class: ApiController
+Dados recuperado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MjM1NTksImlhdCI6MTU5MzcyMzQ5OX0.q8QsBc3uZgrguI_COqv_x6rGTdVqqNPkK_6mPavW0k0",
+	"cod_usuario":"super",
+	"instancia":2,
+	"origem":"ERP",
+	"sistema":"DATASUL"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 20:58:26
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 194
+API: usuarios
+Class: ApiController
+Usuário super atualizado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MjM1NTksImlhdCI6MTU5MzcyMzQ5OX0.q8QsBc3uZgrguI_COqv_x6rGTdVqqNPkK_6mPavW0k0",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"cod_usuario":"super",
+	"nome_usuario":"Super usuarioX",
+	"email":"super@super.com.br",
+	"instancia":2,
+	"ativo":"1",
+	"idusrfluig":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 20:59:01
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 20:59:04
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 178
+API: usuarios
+Class: ApiController
+Dados recuperado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MjM2MDEsImlhdCI6MTU5MzcyMzU0MX0.1n1wZK4k30Ys2VJ4iRV0FBkEvcRENzvraXAXeWzzp3E",
+	"cod_usuario":"super",
+	"instancia":2,
+	"origem":"ERP",
+	"sistema":"DATASUL"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 20:59:07
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 194
+API: usuarios
+Class: ApiController
+Usuário super atualizado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MjM2MDEsImlhdCI6MTU5MzcyMzU0MX0.1n1wZK4k30Ys2VJ4iRV0FBkEvcRENzvraXAXeWzzp3E",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"cod_usuario":"super",
+	"nome_usuario":"Super usuario",
+	"email":"super@super.com.br",
+	"instancia":2,
+	"ativo":"1",
+	"idusrfluig":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 20:59:28
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 20:59:32
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 178
+API: usuarios
+Class: ApiController
+Dados recuperado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MjM2MjgsImlhdCI6MTU5MzcyMzU2OH0.WmPp0tqVGmPxh8-jqPSozbbl8FcYfJsknM78wC9Qd3A",
+	"cod_usuario":"super",
+	"instancia":2,
+	"origem":"ERP",
+	"sistema":"DATASUL"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 20:59:36
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 194
+API: usuarios
+Class: ApiController
+Usuário super atualizado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MjM2MjgsImlhdCI6MTU5MzcyMzU2OH0.WmPp0tqVGmPxh8-jqPSozbbl8FcYfJsknM78wC9Qd3A",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"cod_usuario":"super",
+	"nome_usuario":"Super usuarioX",
+	"email":"super@super.com.br",
+	"instancia":2,
+	"ativo":"1",
+	"idusrfluig":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 21:04:45
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 21:04:48
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 178
+API: usuarios
+Class: ApiController
+Dados recuperado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MjM5NDUsImlhdCI6MTU5MzcyMzg4NX0.njyiALTM_TSF8bcnVwZ3nmr-pUzK7bnxm8ellXRlsYA",
+	"cod_usuario":"super",
+	"instancia":2,
+	"origem":"ERP",
+	"sistema":"DATASUL"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 21:04:51
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 194
+API: usuarios
+Class: ApiController
+Usuário super atualizado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MjM5NDUsImlhdCI6MTU5MzcyMzg4NX0.njyiALTM_TSF8bcnVwZ3nmr-pUzK7bnxm8ellXRlsYA",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"cod_usuario":"super",
+	"nome_usuario":"Super usuario",
+	"email":"super@super.com.br",
+	"instancia":2,
+	"ativo":"1",
+	"idusrfluig":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 21:09:54
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 21:10:03
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 178
+API: usuarios
+Class: ApiController
+Dados recuperado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MjQyNTQsImlhdCI6MTU5MzcyNDE5NH0.F_ID_dbHurabeIwBWGKV06haSK7Yn6y-rGnv6WkE3O8",
+	"cod_usuario":"super",
+	"instancia":2,
+	"origem":"ERP",
+	"sistema":"DATASUL"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 21:10:06
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 194
+API: usuarios
+Class: ApiController
+Usuário super atualizado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MjQyNTQsImlhdCI6MTU5MzcyNDE5NH0.F_ID_dbHurabeIwBWGKV06haSK7Yn6y-rGnv6WkE3O8",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"cod_usuario":"super",
+	"nome_usuario":"Super usuarioX",
+	"email":"super@super.com.br",
+	"instancia":2,
+	"ativo":"1",
+	"idusrfluig":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 21:10:30
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 21:10:33
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 178
+API: usuarios
+Class: ApiController
+Dados recuperado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MjQyOTAsImlhdCI6MTU5MzcyNDIzMH0.IaEYMIxMCXxqqbRvIHm3dEfjAoPRUyUAzuW5yGyfuYg",
+	"cod_usuario":"super",
+	"instancia":2,
+	"origem":"ERP",
+	"sistema":"DATASUL"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 21:10:37
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 194
+API: usuarios
+Class: ApiController
+Usuário super atualizado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MjQyOTAsImlhdCI6MTU5MzcyNDIzMH0.IaEYMIxMCXxqqbRvIHm3dEfjAoPRUyUAzuW5yGyfuYg",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"cod_usuario":"super",
+	"nome_usuario":"Super usuario",
+	"email":"super@super.com.br",
+	"instancia":2,
+	"ativo":"1",
+	"idusrfluig":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 21:16:15
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 21:16:18
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 178
+API: usuarios
+Class: ApiController
+Dados recuperado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MjQ2MzUsImlhdCI6MTU5MzcyNDU3NX0.E-oDUKQDFIybw1cLse9GKpGpXwri-yn5Rw2QTEGFzJQ",
+	"cod_usuario":"super",
+	"instancia":2,
+	"origem":"ERP",
+	"sistema":"DATASUL"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 21:16:21
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 194
+API: usuarios
+Class: ApiController
+Usuário super atualizado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MjQ2MzUsImlhdCI6MTU5MzcyNDU3NX0.E-oDUKQDFIybw1cLse9GKpGpXwri-yn5Rw2QTEGFzJQ",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"cod_usuario":"super",
+	"nome_usuario":"Super usuarioX",
+	"email":"super@super.com.br",
+	"instancia":2,
+	"ativo":"1",
+	"idusrfluig":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 21:25:21
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 21:25:31
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 178
+API: usuarios
+Class: ApiController
+Dados recuperado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MjUxODEsImlhdCI6MTU5MzcyNTEyMX0.ojENiS78IhKbw0eb1IEV9zI70d50rtQrbYifK1JiLWc",
+	"cod_usuario":"super",
+	"instancia":2,
+	"origem":"ERP",
+	"sistema":"DATASUL"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 02/07/2020 21:25:35
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 194
+API: usuarios
+Class: ApiController
+Usuário super atualizado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM3MjUxODEsImlhdCI6MTU5MzcyNTEyMX0.ojENiS78IhKbw0eb1IEV9zI70d50rtQrbYifK1JiLWc",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"cod_usuario":"super",
+	"nome_usuario":"Super usuario",
+	"email":"super@super.com.br",
+	"instancia":2,
+	"ativo":"1",
+	"idusrfluig":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+

@@ -1,0 +1,262 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 01/07/2020 20:19:17
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 01/07/2020 20:19:51
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 01/07/2020 20:20:15
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 01/07/2020 20:21:53
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 01/07/2020 20:23:21
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 01/07/2020 20:24:46
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 01/07/2020 20:24:59
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 01/07/2020 20:26:04
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 01/07/2020 20:27:36
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 01/07/2020 20:27:47
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 01/07/2020 20:27:57
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 01/07/2020 20:42:51
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 590
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 01/07/2020 20:42:54
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 468
+API: gruposprogramas
+Class: ApiController
+
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM2MzYyMzEsImlhdCI6MTU5MzYzNjE3MX0._nbiOOOUD-fphwzSZrOI1V9A617AIQ1awMg7xwQq7eA",
+	"id_leg_grupo":"BOC",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"instancia":1,
+	"cod_programa":"ab0102",
+	"descricao_programa":"Cadastro Tipo de Material",
+	"cod_modulo":"mab",
+	"especific":"N",
+	"upc":"",
+	"codigo_rotina":2,
+	"descricao_rotina":"Manuten\u00e7\u00e3o",
+	"registro_padrao":true,
+	"visualiza_menu":true,
+	"procedimento_pai":"ab0102",
+	"desc_abrev":"Coordenador de Back-Office",
+	"usrExecutor":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 01/07/2020 20:42:54
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 470
+API: gruposprogramas
+Class: ApiController
+Programa ab0102 atribuido ao grupo BOC com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM2MzYyMzEsImlhdCI6MTU5MzYzNjE3MX0._nbiOOOUD-fphwzSZrOI1V9A617AIQ1awMg7xwQq7eA",
+	"id_leg_grupo":"BOC",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"instancia":1,
+	"cod_programa":"ab0102",
+	"descricao_programa":"Cadastro Tipo de Material",
+	"cod_modulo":"mab",
+	"especific":"N",
+	"upc":"",
+	"codigo_rotina":2,
+	"descricao_rotina":"Manuten\u00e7\u00e3o",
+	"registro_padrao":true,
+	"visualiza_menu":true,
+	"procedimento_pai":"ab0102",
+	"desc_abrev":"Coordenador de Back-Office",
+	"usrExecutor":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+

@@ -1,0 +1,1 @@
+d:/php7.3.10/php.exe d:/xampp/htdocs/sga/script/atualiza_vm_usuarios.php

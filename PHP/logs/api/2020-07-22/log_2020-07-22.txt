@@ -1,0 +1,552 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 14:09:30
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 14:09:54
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 14:13:18
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 14:13:22
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 483
+API: gruposprogramas
+Class: ApiController
+Programa Esbc0105 removido do grupo AAT com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTU0MjcyNTgsImlhdCI6MTU5NTQyNzE5OH0.UZkf0UMLGMSUC12ASjFzWqbCuL2F_l4JI448gGQIPQo",
+	"id_leg_grupo":"AAT",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"instancia":2,
+	"cod_programa":"Esbc0105",
+	"descricao_programa":"Associa\u00e7\u00e3o dos N\u00fameros Seriais dos Compo",
+	"cod_modulo":"MCP",
+	"especific":"N",
+	"upc":"",
+	"codigo_rotina":2,
+	"descricao_rotina":"Manuten\u00e7\u00e3o",
+	"registro_padrao":true,
+	"visualiza_menu":true,
+	"procedimento_pai":"cp0301",
+	"desc_abrev":"Agente de Atendimento",
+	"usrExecutor":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 14:22:54
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 14:24:17
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 14:24:20
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 483
+API: gruposprogramas
+Class: ApiController
+Programa Esbc0105 removido do grupo AAT com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTU0Mjc5MTcsImlhdCI6MTU5NTQyNzg1N30.ls9ErKNqAEtvBGm4sd4WJHyEEvvZ2bOrjh_iyWWocqM",
+	"id_leg_grupo":"AAT",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"instancia":2,
+	"cod_programa":"Esbc0105",
+	"descricao_programa":"Associa\u00e7\u00e3o dos N\u00fameros Seriais dos Compo",
+	"cod_modulo":"MCP",
+	"especific":"N",
+	"upc":"",
+	"codigo_rotina":2,
+	"descricao_rotina":"Manuten\u00e7\u00e3o",
+	"registro_padrao":true,
+	"visualiza_menu":true,
+	"procedimento_pai":"cp0301",
+	"desc_abrev":"Agente de Atendimento",
+	"usrExecutor":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 14:24:33
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 14:24:36
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 483
+API: gruposprogramas
+Class: ApiController
+Programa Esbc0105 removido do grupo AAT com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTU0Mjc5MzMsImlhdCI6MTU5NTQyNzg3M30.pUby3WbLy72hTLLoV119h23-pHgj1T7w5TL_SDbUPnE",
+	"id_leg_grupo":"AAT",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"instancia":2,
+	"cod_programa":"Esbc0105",
+	"descricao_programa":"Associa\u00e7\u00e3o dos N\u00fameros Seriais dos Compo",
+	"cod_modulo":"MCP",
+	"especific":"N",
+	"upc":"",
+	"codigo_rotina":2,
+	"descricao_rotina":"Manuten\u00e7\u00e3o",
+	"registro_padrao":true,
+	"visualiza_menu":true,
+	"procedimento_pai":"cp0301",
+	"desc_abrev":"Agente de Atendimento",
+	"usrExecutor":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 14:32:23
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 14:32:32
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 14:32:41
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 14:33:05
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 14:44:52
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 14:48:15
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 14:48:18
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 483
+API: gruposprogramas
+Class: ApiController
+Programa Esbc0105 removido do grupo AAT com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTU0MjkzNTUsImlhdCI6MTU5NTQyOTI5NX0.3ucPgrNv_2W5Etonxc7Hy5GArJy9rlM14wsGzRN5ZLQ",
+	"id_leg_grupo":"AAT",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"instancia":2,
+	"cod_programa":"Esbc0105",
+	"descricao_programa":"Associa\u00e7\u00e3o dos N\u00fameros Seriais dos Compo",
+	"cod_modulo":"MCP",
+	"especific":"N",
+	"upc":"",
+	"codigo_rotina":2,
+	"descricao_rotina":"Manuten\u00e7\u00e3o",
+	"registro_padrao":true,
+	"visualiza_menu":true,
+	"procedimento_pai":"cp0301",
+	"desc_abrev":"Agente de Atendimento",
+	"usrExecutor":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 14:48:29
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 18:09:38
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 18:16:44
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 18:16:47
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 483
+API: gruposprogramas
+Class: ApiController
+Programa Esbc0105 removido do grupo AMK com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTU0NDE4NjQsImlhdCI6MTU5NTQ0MTgwNH0.ejMQei2Aew2p1ehBRE181bkyOOpXovXHrRVrphb4vlE",
+	"id_leg_grupo":"AMK",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"instancia":2,
+	"cod_programa":"Esbc0105",
+	"descricao_programa":"Associa\u00e7\u00e3o dos N\u00fameros Seriais dos Compo",
+	"cod_modulo":"MCP",
+	"especific":"N",
+	"upc":"",
+	"codigo_rotina":2,
+	"descricao_rotina":"Manuten\u00e7\u00e3o",
+	"registro_padrao":true,
+	"visualiza_menu":true,
+	"procedimento_pai":"cp0301",
+	"desc_abrev":"Agente de Marketing",
+	"usrExecutor":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 18:16:54
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 18:16:57
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 483
+API: gruposprogramas
+Class: ApiController
+Programa Esbc0105 removido do grupo AAT com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTU0NDE4NzQsImlhdCI6MTU5NTQ0MTgxNH0.D7H9gZbrC7m3pxp4qo2imUeSErSg7QIs1lJmq2oDytg",
+	"id_leg_grupo":"AAT",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"instancia":2,
+	"cod_programa":"Esbc0105",
+	"descricao_programa":"Associa\u00e7\u00e3o dos N\u00fameros Seriais dos Compo",
+	"cod_modulo":"MCP",
+	"especific":"N",
+	"upc":"",
+	"codigo_rotina":2,
+	"descricao_rotina":"Manuten\u00e7\u00e3o",
+	"registro_padrao":true,
+	"visualiza_menu":true,
+	"procedimento_pai":"cp0301",
+	"desc_abrev":"Agente de Atendimento",
+	"usrExecutor":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 18:26:31
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 20:00:26
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 20:06:04
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 22:46:12
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 22:46:19
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 178
+API: usuarios
+Class: ApiController
+Dados recuperado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTU0NTgwMzIsImlhdCI6MTU5NTQ1Nzk3Mn0.m6IUAAuVIty4lTBQoCRk1XPct8n8uWDPSfmtu8ow9fY",
+	"cod_usuario":"d_peixoto",
+	"instancia":2,
+	"origem":"ERP",
+	"sistema":"DATASUL"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 22/07/2020 22:46:25
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 194
+API: usuarios
+Class: ApiController
+Usuário d_peixoto atualizado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTU0NTgwMzIsImlhdCI6MTU5NTQ1Nzk3Mn0.m6IUAAuVIty4lTBQoCRk1XPct8n8uWDPSfmtu8ow9fY",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"cod_usuario":"d_peixoto",
+	"nome_usuario":"Diego Idalino Peixoto x",
+	"email":"",
+	"instancia":2,
+	"ativo":"1",
+	"idusrfluig":"d_peixoto"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+

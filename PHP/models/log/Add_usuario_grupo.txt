@@ -1,0 +1,1 @@
+INSERT INTO z_sga_grupos SET cod_grupo = 'SGA', desc_grupo = 'GRUPO TESTE SGA IMPLANTA',gestor = 'super',cod_usuario = 'uteste',idGrupo =  '185',idUsuario = '2157'

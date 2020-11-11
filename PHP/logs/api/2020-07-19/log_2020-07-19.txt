@@ -1,0 +1,389 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 19/07/2020 19:23:00
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 19/07/2020 19:24:22
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 19/07/2020 19:25:48
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 19/07/2020 19:25:51
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 241
+API: grupos
+Class: ApiController
+Grupo cadastrado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTUxODY4MDgsImlhdCI6MTU5NTE4Njc0OH0.MpPPEGJ5wGcVwoCh6BcDK97jIkUv2HnnoAEvtvhAtu0",
+	"id_leg_grupo":"TDI",
+	"desc_abrev":"Teste",
+	"instancia":2,
+	"origem":"ERP",
+	"sistema":"DATASUL"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 19/07/2020 19:28:33
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 19/07/2020 19:39:46
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 19/07/2020 19:39:49
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 317
+API: gruposusuarios
+Class: ApiController
+Usuario atribuido ao grupo com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTUxODc2NDYsImlhdCI6MTU5NTE4NzU4Nn0.T-JyVwgr8M6GRudXyTnnpMSwXL3-0r5Va-BpF9puraM",
+	"cod_usuario":"d_peixoto",
+	"id_leg_grupo":"TDI",
+	"instancia":2,
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"desc_abrev":"Teste",
+	"nome_usuario":"Diego Idalino Peixoto x",
+	"email":"",
+	"idusrfluig":"d_peixoto",
+	"ativo":"1",
+	"usrExecutor":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 19/07/2020 19:40:22
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 19/07/2020 19:40:25
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 286
+API: grupos
+Class: ApiController
+Grupo removido TDI com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTUxODc2ODIsImlhdCI6MTU5NTE4NzYyMn0.AI6hTV9760-WA9dfJNnR873Zb6K5nji1Yld55C9UUQg",
+	"id_leg_grupo":"TDI",
+	"instancia":2,
+	"origem":"ERP",
+	"sistema":"DATASUL"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 19/07/2020 19:40:28
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 19/07/2020 19:40:31
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 332
+API: gruposusuarios
+Class: ApiController
+Usuario removido do grupo com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTUxODc2ODgsImlhdCI6MTU5NTE4NzYyOH0.4Lbq6-28Hm93qpu9H__y2X0eXwFmqH6Kfx5cppYI-0g",
+	"cod_usuario":"d_peixoto",
+	"id_leg_grupo":"TDI",
+	"instancia":2,
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"nome_usuario":"Diego Idalino Peixoto x",
+	"email":"",
+	"idusrfluig":"d_peixoto",
+	"ativo":"1"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 19/07/2020 19:40:47
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 19/07/2020 19:40:50
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 332
+API: gruposusuarios
+Class: ApiController
+Usuario removido do grupo com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTUxODc3MDcsImlhdCI6MTU5NTE4NzY0N30.kPh-8N2I5J9Log2lzKCH8tE27EifaQcnHFhsurbITOQ",
+	"cod_usuario":"d_peixoto",
+	"id_leg_grupo":"sup",
+	"instancia":2,
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"nome_usuario":"Diego Idalino Peixoto x",
+	"email":"",
+	"idusrfluig":"d_peixoto",
+	"ativo":"1"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 19/07/2020 19:41:06
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 19/07/2020 19:41:10
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 317
+API: gruposusuarios
+Class: ApiController
+Usuario atribuido ao grupo com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTUxODc3MjYsImlhdCI6MTU5NTE4NzY2Nn0.U_gBXtQXkETs0TbrvFMhb4iV41fLUezUPQ74A4d_tCs",
+	"cod_usuario":"d_peixoto",
+	"id_leg_grupo":"sup",
+	"instancia":2,
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"desc_abrev":"sup",
+	"nome_usuario":"Diego Idalino Peixoto x",
+	"email":"",
+	"idusrfluig":"d_peixoto",
+	"ativo":"1",
+	"usrExecutor":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 19/07/2020 19:42:40
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 19/07/2020 19:42:42
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 483
+API: gruposprogramas
+Class: ApiController
+Programa ab0101 removido do grupo sup com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTUxODc4MjAsImlhdCI6MTU5NTE4Nzc2MH0.tMtO8kWKmHLSDqfIbppgaPx6PoHGVTpepDcfjgPJOB0",
+	"id_leg_grupo":"sup",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"instancia":2,
+	"cod_programa":"ab0101",
+	"descricao_programa":"Par\u00e2metros Frota",
+	"cod_modulo":"mab",
+	"especific":"N",
+	"upc":"",
+	"codigo_rotina":2,
+	"descricao_rotina":"Manuten\u00e7\u00e3o",
+	"registro_padrao":true,
+	"visualiza_menu":true,
+	"procedimento_pai":"ab0101",
+	"desc_abrev":"sup",
+	"usrExecutor":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 19/07/2020 19:43:27
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 19/07/2020 19:43:29
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 483
+API: gruposprogramas
+Class: ApiController
+Programa pd4000 removido do grupo sup com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTUxODc4NjcsImlhdCI6MTU5NTE4NzgwN30.5lyrQatAwPAXrp3ltlm5ukBURu5kksxKx-DvQMoRxb4",
+	"id_leg_grupo":"sup",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"instancia":2,
+	"cod_programa":"pd4000",
+	"descricao_programa":"Implanta\u00e7\u00e3o Pedidos",
+	"cod_modulo":"mpd",
+	"especific":"N",
+	"upc":"esupc\/upd4000.p",
+	"codigo_rotina":4,
+	"descricao_rotina":"Tarefas",
+	"registro_padrao":true,
+	"visualiza_menu":true,
+	"procedimento_pai":"pd4000",
+	"desc_abrev":"sup",
+	"usrExecutor":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 19/07/2020 19:43:41
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 588
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+

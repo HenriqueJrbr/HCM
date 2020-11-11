@@ -1,0 +1,330 @@
+idGrupo;idLegGrupo;descAbrev;descricao;idEmpresa
+1;*;Todos os Usuários;;1
+2;sup;sup;;1
+3;sop;Customizador;;1
+4;AAT;Agente de Atendimento;;1
+5;AMK;Agente de Marketing;;1
+6;APA;Analista de Contas a Pagar;;1
+7;APD;Analista de Pedido Vendas;;1
+8;BOA;Atendente de Back-Office;;1
+9;BOC;Coordenador de Back-Office;;1
+10;BOS;Supervisor de Back-Office;;1
+11;CAN;Analista de Contrato;;1
+12;CLI;Cliente de Compras;;1
+13;CLV;Cliente Pedido;;1
+14;COO;Coordenador;;1
+15;CRA;Analista de Crédito;;1
+16;CRO;Operador de Caixa;;1
+17;CSA;Analista Satisfação do Cliente;;1
+18;CST;Analista de Custo;;1
+19;CTP;Parte Contratante;;1
+20;ENG;Engenheiro de Produto;;1
+21;EXA;Analista de Exportação;;1
+22;FAN;Analista Financeiro;;1
+23;FAU;Auditor de Arquivos;;1
+24;FCU;Cliente Financeiro;;1
+25;FMG;Gerente Financeiro;;1
+26;FOP;Operador de Arquivos;;1
+27;FVE;Fornecedor Financeiro;;1
+28;GCM;Gestor Comercial;;1
+29;GCQ;Gerente de Qualidade;;1
+30;GST;Gerenciador Metadados;;1
+31;HDA;Atendente de SAC;;1
+32;HDC;Coordenador de SAC;;1
+33;HDS;Supervisor de SAC;;1
+34;HR;RH;;1
+35;IAN;Analista de Importação;;1
+36;IBB;Comprador Interno;;1
+37;IMA;Aprovador de Manutenção Ind.;;1
+38;IMC;Cliente de Manutenção Industrial;;1
+39;IMP;Planejador de Manutenção Ind.;;1
+40;IPD;Implantador de Pedido de Vendas;;1
+41;IVD;Digitador de Inventário;;1
+42;IVR;Requisitante de Estoque;;1
+43;MAD;Administrador de Materiais;;1
+44;MDT;Médico Auditor;;1
+45;MER;Analista Comercial;;1
+46;MFT;Faturista;;1
+47;PFT;Preparador Faturamento;;1
+48;PLA;Planejador de Produção;;1
+49;PRR;Requisitante de Compras;;1
+50;PRS;Atendimento ao Prestador;;1
+51;QAN;Analista de Qualidade;;1
+52;QSQ;Funcionário;;1
+53;RAS;Assistente de Cadastro;;1
+54;REP;Representante de Vendas;;1
+55;SAS;Assistente de Vendas;;1
+56;SFT;Separador Faturamento;;1
+57;SLM;Vendedor;;1
+58;STO;Analista de Armazenagem;;1
+59;TAX;Analista Fiscal;;1
+60;WKE;Almoxarife;;1
+61;ime;Engenheiro de Manutenção Ind.;;1
+62;imm;Gerente de Manutenção Industrial;;1
+63;imt;Técnico de Manutenção Industrial;;1
+64;pmi;Gerente de Produção;;1
+65;ALA;Alerta Audit Trail - Fornecedor;;1
+66;APR;APROVADORES;;1
+67;ARM;Movimentação Armazem;;1
+68;ATF;Atualizações faturamento;;1
+69;ATV;Permissão venda ativo;;1
+70;BQC;Bloqueio Contábil;;1
+71;CAP;CONTAS A PAGAR;;1
+72;CCC;Compras - Consulta;;1
+73;CCM;Compras - Master;;1
+74;CCO;Compras - Operacional;;1
+75;CDI;Cadastro de Item;;1
+76;CFO;CADASTRO DE FORNECEDOR;;1
+77;CFT;Faturamento- contabilização;;1
+78;CLO;Controle Logístico Operacional;;1
+79;CNF;Cancelamento de NF;;1
+80;CON;Controladoria;;1
+81;COP;COMPRAS;;1
+82;CPC;CONTAS A PAGAR CONSULTA;;1
+83;CTB;Acesso ao CD0903;;1
+84;DES;Desatualiza Nota Outros Usuários;;1
+85;DFT;Diário auxiliar - Faturamento;;1
+86;DIV;Acesso ao CE0220 - TD;;1
+87;DPE;DPEC;;1
+88;ELE;Electrolux - Faturamento;;1
+89;ELP;Electrolux - Parâmetros;;1
+90;ERF;Administração Flag APB RE0402;;1
+91;FAT;Faturamento;;1
+92;FGL;Contabilidade;;1
+93;FIN;Financeiro;;1
+94;FIS;Fiscal;;1
+95;FTE;Atualização Estoque - FT2100;;1
+96;FTM;Faturamento master;;1
+97;FTO;Faturamento Operacional;;1
+98;FTS;Acesso ao FT0114;;1
+99;FUN;Funcionários;;1
+100;LNF;LANÇAMENTO DE NF;;1
+101;MFF;Manutenção Fonecedor Financeiro;;1
+102;NAT;Cadastro de Natureza de Operação;;1
+103;NCM;NCM e natureza de operação;;1
+104;obc;Integrações OBC (OutbuyCenter);;1
+105;OFL;Lançamento OF0305;;1
+106;oi;Usuários OI;;1
+107;PDI;PDI-CLI;;1
+108;PIT;OF0305 - Projeto PITSTOP;;1
+109;PRD;Modulo de Produção Geral;;1
+110;RE;RE0101;;1
+111;REA;Recebimento Admin Estoque;;1
+112;REC;Recebimento-Consulta;;1
+113;REM;Recebimento-Master;;1
+114;REO;Recebimento-Operacional;;1
+115;REQ;REQUISITANTES ESTOQUE;;1
+116;SER;Grupo alteração Serie Nota;;1
+117;TGC;TEGMA Comercio;;1
+118;TI;Grupo de Usuarios de TI;;1
+119;TMT;Grupo Excessão Timeout;;1
+120;TTA;TEC - Administradores ERP;;1
+121;TTD;BTB - Tarefas RPW;;1
+122;USD;Usuários Service Desk;;1
+123;A00;Acesso ao Razão Contabil Ger;;1
+124;A01;Demonstrativo Contabil;;1
+125;A02;Acesso ao Balancete;;1
+126;ACD;Diário auxiliar ACR;;1
+127;ACM;Alterar\ implanta título ACR;;1
+128;ACR;Depto. Contas a Receber;;1
+129;ACT;Permissões Financ ACR;;1
+130;ADT;Auditoria interna;;1
+131;APB;Depto. Contas a Pagar;;1
+132;APC;Contas a pagar - Consultas;;1
+133;APE;Contas a Pagar - Consulta GP;;1
+134;APF;Contas a Pagar - CAD Fornec PF;;1
+135;APG;GESTOR CONTAS A PAGAR;;1
+136;API;Implantação titulo APB;;1
+137;APM;Contas a pagar - Master;;1
+138;APO;Contas a pagar - operacional;;1
+139;APT;Permissões Finac APB;;1
+140;cat;Quem tem acesso empresa cat;;1
+141;CAX;Lançamento CMG;;1
+142;CDC;Cadastros contabeis;;1
+143;CDE;Cadastro CC (FGL);;1
+144;CMG;Depto. Caixa e Bancos;;1
+145;COM;Depto. Compras;;1
+146;COR;COORDENADORES;;1
+147;COT;CONTROLADORIA;;1
+148;CPD;CPD;;1
+149;CRC;Contas a receber - Consultas;;1
+150;CRM;Contas a receber - Master;;1
+151;FAR;Ativo fixo- Relatórios;;1
+152;FAS;Ativo fixo;;1
+153;FCC;Manutanção CC UN e Conta;;1
+154;FGC;Contabilidade - Consulta;;1
+155;FGM;Contabilidade - Master;;1
+156;FGO;Contabilidade - Operacional;;1
+157;IEX;Integração Externa- FGL;;1
+158;INF;TI- Consultores;;1
+159;ITA;Importação de Títulos APB;;1
+160;PER;Acesso a manutenção de periodos;;1
+161;RFN;RECEBIMENTO FINANCEIRO - CP;;1
+162;RFS;RECEBIMENTO FISCAL - CP;;1
+163;tes;Tesoraria;;1
+164;TSR;TESOURARIA;;1
+165;HCM;Acesso ao ESHCM0002;;1
+166;MTT;Matriz Tradução;;1
+167;BCC;Bloqueio conta/centro de custo;;1
+168;NDI;Lançamento ACR;;1
+169;DIA;Diario Auxiliar;;1
+170;CTA;Conta corrente carreteiro;;1
+171;DGE;DAGE;;1
+172;CC1;Compras 1;;1
+173;CC2;Compras 2;;1
+174;CC3;Compras 3;;1
+175;CC4;Compras 4;;1
+176;CC5;Compras 5;;1
+177;CC6;Compras 6;;1
+178;TER;Controle RE0408;;1
+179;CTD;CONTROLADORIA;;1
+180;CEP;Manutenção de CEP;;1
+181;FCR;Alteração Status CR NF;;1
+182;ITR;Restrição CD0205;;1
+183;REF;Recebimento Fiscal cadastros;;1
+184;GDL;Acesso GDL;;1
+185;APS;Atenção Primária à Saúde;;1
+186;TGL;Tegma Gestão Logística;;1
+187;FRT;Frete Rápido;;1
+188;F00;Lançamento de Notas -20121TGA;;1
+189;F01;Faturista PL - 20281TGA - Coorde;;1
+190;F02;Anl Performance JR 60010SCT-Coor;;1
+191;F03;Anl Rastreamento JR-60010SCT-Coo;;1
+192;F04;Coordenação Operacional  CC 2008;;1
+193;F05;Aux Administrativo I - 60006SCT ;;1
+194;F06;Mot Monitor - 60006SCT - C.A.T;;1
+195;F07;Gestão de Embalagens - EDIEL;;1
+196;F08;Assist Operacional I - 20201TGA ;;1
+197;F09;EQUIPE DOC BARUERI;;1
+198;F10;EQUIPE DOC AGUA VERMELHA;;1
+199;F11;EQUIPE ADM SC;;1
+200;F12;EQUIPE  DOC FABRICA Elux São Car;;1
+201;F13;ENCARREGADO BARUERI;;1
+202;F22;Administrativo TI;;1
+203;F23;Anl Administrativo-30301EXH-Carg;;1
+204;F24;Anl Rel Fornecedor JR-30301EXH-C;;1
+205;F25;Assist Operacional Logistico-303;;1
+206;F26;Conferente Embalagem-30301EXH-Ca;;1
+207;F27;Assist Administrativo-30301EXH;;1
+208;F28;Conferente Embalagem-30301EXH;;1
+209;F29;Assist Oper. Log. 30001DSC-Carga;;1
+210;F30;AUX ARMAZEM - 30001DSC - Carga G;;1
+211;F31;Conferente Embalagem - 30001DSC ;;1
+212;F32;LIDER OP LOGISTICO - 30001DSC - ;;1
+213;F33;Assist Oper. Log -30301EXH - Car;;1
+214;F34;Conferente Embalagem - 30301EXH ;;1
+215;F35;LIDER OP LOGISTICO - 30301EXH - ;;1
+216;F36;Assist Oper. Log -30301EXT - Car;;1
+217;F37;Aux Operacional II - 30301EXH;;1
+218;F38;Lider Op Logístico - 30301EXH;;1
+219;F39;Novo Controladoria;;1
+220;DFE;Acessos Programas Becomex;;1
+221;F40;Aux AdministrativoII-10023EMV-Ge;;1
+222;F41;Aux AdministrativoII-60105TGA-Fr;;1
+223;F44;Anl Sustentacao-10004SUS-Sustent;;1
+224;F45;Anl Infraestrutura JR-10004-INFR;;1
+225;F46;Assist Administrativo - 40002GMS;;1
+226;F47;Assist Administrativo - 40061TOS;;1
+227;F48;Programador Cargas JR-20102TGA -;;1
+228;F49;Anl Administrativo JR - 10008SEM;;1
+229;FM5;FORA MENU EMS5;;1
+230;F50;ASSIST CONTABIL I-10006ADM-Conta;;1
+231;F51;Especialista Contabil-10006ADM-C;;1
+232;F52;Farmaceutico-85026SCT-Apoio São ;;1
+233;F53;Assist Adm-95431CUB-Filial Cubat;;1
+234;F54;ASSIST LOGISTICA-95431CUB-Filial;;1
+235;F55;Anl Controle Frotas JR 10023EMV-;;1
+236;F56;Aprendiz-10023EMV-Gestão de Negó;;1
+237;F59;SUP MANUTENCAO-95330SCT-Gerência;;1
+238;F60;GDL-ADM - CONTROLADORIA;;1
+239;F61;GDL-CARGA GERAL;;1
+240;F62;ANL CONTABIL JR-10006ADM-Contabi;;1
+241;F63;Anl Contabil PL-10006ADM-Contabi;;1
+242;F64;ANL CONTABIL SR-10006ADM-Contabi;;1
+243;F66;ASSIST CONTABIL II-10006ADM-Cont;;1
+244;F67;Aux Administrativo II-10006ADM-C;;1
+245;F68;Coord Contabil-10006ADM-Contabil;;1
+246;F69;Aux Fiscal II-10031ADM-Recebimen;;1
+247;F70;Assist Fiscal-10033ADM-Fiscal;;1
+248;F71;Anl Fiscal JR l-10033ADM-Fiscal;;1
+249;F72;Assist Administrativo-95330SCT- ;;1
+250;F73;Engenha. e Manute. Predial-10008;;1
+251;F74;Faturista PL-TGA20161-Coord. Ope;;1
+252;F76;Aux Operacional I - TOG40031;;1
+253;F77; ASSIST OPERECIONAL - TOG40031;;1
+254;F78;Assist Operacional - 20171TGA - ;;1
+255;F79;Aprendiz - 40002GMS - Pátio GM S;;1
+256;F80;Aprendiz - 20102TGA - Parqueamen;;1
+257;F81;Assist Administra. 20211TGA-Coor;;1
+258;F82;Apoio Administrativo I - 85036SC;;1
+259;F83;Apoio Administrativo II - 85036S;;1
+260;F84;Aux Operacional I - 20021TGA - C;;1
+261;F85;Aux Operacional I - 20021TGA;;1
+262;F86;CRT - Contratação e  Relacioname;;1
+263;F87;CCC-10034ADM-Gestão de Fretes;;1
+264;F88;Despesa de Transporte-10034ADM -;;1
+265;F89;Assist. Administrativo -20031TGA;;1
+266;F92;Assist Administrativo-40001GMG -;;1
+267;F93;Aux Operacional I - 40001GMG;;1
+268;F94;Novo Auditoria Interna;;1
+269;F95;ADM Compras-10007ADM;;1
+270;F96;GI-Gestão Imobiliário-10007ADM;;1
+271;F97;Compras - 10007ADM;;1
+272;F98;COORD PATRIMONIO - 10007ADM - Pa;;1
+273;F99;Aux Operacional I-50004GRA-PDI G;;1
+274;D00;Aux Operacional I-50004GRA;;1
+275;D01;Enc Administrativo -50004GRA;;1
+276;D02;Enc Operacional-20001TGA-Coord. ;;1
+277;D03;AUXILIAR PDI -50007 ;;1
+278;D04;ASSISTENTE - 50007;;1
+279;D05;GDL-VEÍCULOS - PDI;;1
+280;D06;GDL-ADM - CONTAS A PAGAR;;1
+281;D07;GDL-ADM - RECEBIMENTO / FINANCEI;;1
+282;D08;GDL-ADM - CONTAS A RECEBER;;1
+283;D09;GDL-ADM - FATURAMENTO;;1
+284;D10;Assist Fiscal-10031ADM-Recebimen;;1
+285;D11;Aux Fiscal I-10031ADM-Recebiment;;1
+286;D12;Anl Fiscal JR-10033ADM-Fiscal;;1
+287;D13;Anl Fiscal PL-10033ADM- Fiscal;;1
+288;D15;Aprendiz-10033ADM-Fiscal;;1
+289;D16;Anl Fiscal-10033ADM-Fiscal;;1
+290;D17;Aprendiz-20061TGA-Coord. Operac.;;1
+291;D18;Assist Adm-20061TGA-Coord. Opera;;1
+292;D19;SUP OPERACOES-20201TGA-Movimenta;;1
+293;D20;COORD OPERACOES-20351TGA-Filial ;;1
+294;D21;Assist Adm-20041TGA-Movimentação;;1
+295;D22;Assist Adm I-85022BKG-BURGUER KI;;1
+296;D23;Assist Adm - 85022BKG - BURGUER ;;1
+297;D24;SUP OPERACOES - 20221TGA - Coord;;1
+298;D25;FATURAMENTO EMISSÃO-10051ADM-Fat;;1
+299;D26;FATURAMENTO COBRANÇA-10051ADM-Fa;;1
+300;D27;FATURAMENTO CONCILIAÇÃO-10051ADM;;1
+301;D28;FATURAMENTO GESTÃO-10051ADM-Fatu;;1
+302;D29;FATURAMENTO MENOR APRE-10051ADM-;;1
+303;D30;Tesouraria - 10021ADM;;1
+304;D31;Contas a Receber - 10020ADM;;1
+305;D32;Contas a Pagar - 10005ADM;;1
+306;D33;Planejamento-95206SCT;;1
+307;D34;Administrativo I-40071GMA-Patio ;;1
+308;D35;Administrativo II-40071GMA-Patio;;1
+309;D36;Assist Financeiro - 20301TGA - C;;1
+310;D37;SECRETARIA SR - 20301TGA - Coord;;1
+311;D38;Anl Fiscal SR -10033ADM-Fiscal;;1
+312;D39;Sup Operações-95421IND Indaiatuba;;1
+313;D40;Coord. Operacio. Chui-20011TGA;;1
+314;D41;Governa. Trabalhista-10003GTR;;1
+315;D42;Administra de Pessoal-10003ADM;;1
+316;D43;Assist Admin-20001TGA-Coord. Ope;;1
+317;APV;Financeiro - Aprov. Titulos;;1
+318;D44;Frete Rapido Empresa;;1
+319;D45;Caju - Rio de Janeiro;;1
+320;RPA;RPA - Robotic Process Automation;;1
+321;RPW;Integrações RPW;;1
+322;035;Relatório ESRE0035;;1
+323;D48;Contas a Receber I-10020ADM;;1
+324;D49;Contas a Receber II-10020ADM;;1
+325;D51;Contas a Pagar-10005ADM;;1
+326;D52;Contas a Pagar I-10005ADM;;1
+327;D53;ADM PDI - 50007;;1
+328;G00;Contas a Receber III-10020ADM;;1
+329;G01;Aux Fiscal III-10031ADM-Recebimen;;1

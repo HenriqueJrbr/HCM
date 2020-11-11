@@ -1,0 +1,2023 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 29/06/2020 18:00:35
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 601
+API: token
+Class: ApiController
+
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 29/06/2020 18:00:35
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 606
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 29/06/2020 18:05:20
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 601
+API: token
+Class: ApiController
+
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 29/06/2020 18:05:20
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 606
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 29/06/2020 18:16:23
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 601
+API: token
+Class: ApiController
+
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 29/06/2020 18:16:23
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 606
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 29/06/2020 18:16:26
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 401
+API: programas
+Class: ApiController
+Programa Esbc0105 atualizado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM0NTQ2NDMsImlhdCI6MTU5MzQ1NDU4M30.xT-4W3x6tnZtiFyC-ATT-zO1V0udBjNHRMRgzEAxUWo",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"instancia":2,
+	"cod_programa":"Esbc0105",
+	"descricao_programa":"Associa\u00e7\u00e3o dos N\u00fameros Seriais dos Compo",
+	"cod_modulo":"MCP",
+	"descricao_modulo":"Producao",
+	"especific":"N",
+	"upc":"",
+	"codigo_rotina":2,
+	"descricao_rotina":"Manuten\u00e7\u00e3o",
+	"registro_padrao":true,
+	"visualiza_menu":true,
+	"procedimento_pai":"cp0301"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 29/06/2020 18:38:35
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 601
+API: token
+Class: ApiController
+
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 29/06/2020 18:38:35
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 606
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 29/06/2020 18:40:23
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 601
+API: token
+Class: ApiController
+
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 29/06/2020 18:40:23
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 606
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 29/06/2020 18:40:26
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 178
+API: usuarios
+Class: ApiController
+Dados recuperado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM0NTYwODMsImlhdCI6MTU5MzQ1NjAyM30.WdopAxcLBhfwTh9ZxKFIrje05Yoce1stb6r7JoYBz8w",
+	"cod_usuario":"super",
+	"instancia":2,
+	"origem":"ERP",
+	"sistema":"DATASUL"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 29/06/2020 18:40:28
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 194
+API: usuarios
+Class: ApiController
+Usuário super atualizado com sucesso
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM0NTYwODMsImlhdCI6MTU5MzQ1NjAyM30.WdopAxcLBhfwTh9ZxKFIrje05Yoce1stb6r7JoYBz8w",
+	"origem":"ERP",
+	"sistema":"DATASUL",
+	"cod_usuario":"super",
+	"nome_usuario":"Super usuario X",
+	"email":"super@super.com.br",
+	"instancia":2,
+	"ativo":"1",
+	"idusrfluig":"super"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 29/06/2020 19:52:50
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 601
+API: token
+Class: ApiController
+
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 29/06/2020 19:52:50
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 606
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 29/06/2020 19:52:51
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 74
+API: funcoes
+Class: ApiController
+{
+	"cod_funcao":"100",
+	"descricao":"ALMOXARIFE | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"47",
+	"descricao":"AN ADMINISTRATIVO VENDAS JR | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"85",
+	"descricao":"AN COBRANCA SR | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"90",
+	"descricao":"AN CONTABIL PL | Centro de Custo: 2736 - CONTABILIDADE"
+},
+	{
+	"cod_funcao":"89",
+	"descricao":"AN CONTABIL SR | Centro de Custo: 2736 - CONTABILIDADE"
+},
+	{
+	"cod_funcao":"91",
+	"descricao":"AN CONTABIL | Centro de Custo: 2736 - CONTABILIDADE"
+},
+	{
+	"cod_funcao":"78",
+	"descricao":"AN DE SUPORTE DE SISTEMAS JR | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"35",
+	"descricao":"AN EXPORTACAO IMPORTACAO PL | Centro de Custo: 2355 - GLOBAL SOURCING"
+},
+	{
+	"cod_funcao":"62",
+	"descricao":"AN FISCAL JR | Centro de Custo: 2703 - FISCAL"
+},
+	{
+	"cod_funcao":"65",
+	"descricao":"AN FISCAL PL | Centro de Custo: 2703 - FISCAL"
+},
+	{
+	"cod_funcao":"57",
+	"descricao":"AN PLANEJAMENTO FINANCEIRO PL | Centro de Custo: 2702 - CONTROLADORIA"
+},
+	{
+	"cod_funcao":"40",
+	"descricao":"AN QUALIDADE SR | Centro de Custo: 2504 - QUALIDADE DE FORNECEDORES"
+},
+	{
+	"cod_funcao":"70",
+	"descricao":"AN RECURSOS HUMANOS PL | Centro de Custo: 2704 - RECURSOS HUMANOS"
+},
+	{
+	"cod_funcao":"66",
+	"descricao":"AN RECURSOS HUMANOS SR | Centro de Custo: 2704 - RECURSOS HUMANOS"
+},
+	{
+	"cod_funcao":"79",
+	"descricao":"AN SEGURANCA DA INFORMACAO PL | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"76",
+	"descricao":"AN SISTEMAS PL | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"74",
+	"descricao":"AN SISTEMAS SR | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"42",
+	"descricao":"AN VENDAS SR | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"84",
+	"descricao":"ANALISTA DE CREDITO SR | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"56",
+	"descricao":"ANALISTA DE CUSTOS PL | Centro de Custo: 2702 - CONTROLADORIA"
+},
+	{
+	"cod_funcao":"72",
+	"descricao":"ANALISTA DE INFRAESTRUTURA JR | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"77",
+	"descricao":"ANALISTA DE INFRAESTRUTURA PL | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"81",
+	"descricao":"ANALISTA FINANCEIRO PL | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"82",
+	"descricao":"ANALISTA FINANCEIRO SR | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"97",
+	"descricao":"ANALISTA JURIDICO | Centro de Custo: 2750 - JURIDICO"
+},
+	{
+	"cod_funcao":"14",
+	"descricao":"ANALISTA PCM SR | Centro de Cutso: 2151 - PLANEJAMENTO E CONTR.MATERIAIS - PCM"
+},
+	{
+	"cod_funcao":"13",
+	"descricao":"ANALISTA PLANEJ MATERIAIS PL | Centro de Custo: 2151 - PLANEJAMENTO E CONTR.MATERIAIS - PCM"
+},
+	{
+	"cod_funcao":"68",
+	"descricao":"ASSISTENTE DE RECURSOS HUMANOS | Centro de Custo: 2704 - RECURSOS HUMANOS"
+},
+	{
+	"cod_funcao":"87",
+	"descricao":"ASSISTENTE FINANCEIRO | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"63",
+	"descricao":"ASSISTENTE FISCAL | Centro de Custo: 2703 - FISCAL"
+},
+	{
+	"cod_funcao":"21",
+	"descricao":"AUX ADMINISTRATIVO | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"93",
+	"descricao":"AUX ALMOXARIFADO | Centro de Custo: 2910 - REVENDA DE PECAS"
+},
+	{
+	"cod_funcao":"99",
+	"descricao":"AUX PRODUCAO | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"39",
+	"descricao":"AUXILIAR DA QUALIDADE | Centro de Custo: 2503 - QUALIDADE DE CAMPO"
+},
+	{
+	"cod_funcao":"64",
+	"descricao":"AUXILIAR ESCRITA FISCAL | Centro de Custo: 2703 - FISCAL"
+},
+	{
+	"cod_funcao":"69",
+	"descricao":"AUXILIAR RECURSOS HUMANOS | Centro de Custo: 2704 - RECURSOS HUMANOS"
+},
+	{
+	"cod_funcao":"33",
+	"descricao":"COMPRADOR DE PROJETOS SR | Centro de Custo: 2353 - SUPRIMENTOS II"
+},
+	{
+	"cod_funcao":"28",
+	"descricao":"COMPRADOR JR | Centro de Custo: 2350 - SUPRIMENTOS"
+},
+	{
+	"cod_funcao":"32",
+	"descricao":"COMPRADOR JR | Centro de Custo: 2353 - SUPRIMENTOS II"
+},
+	{
+	"cod_funcao":"30",
+	"descricao":"COMPRADOR PL | Centro de Custo: 2353 - SUPRIMENTOS II"
+},
+	{
+	"cod_funcao":"31",
+	"descricao":"COMPRADOR SR | Centro de Custo: 2353 - SUPRIMENTOS II"
+},
+	{
+	"cod_funcao":"51",
+	"descricao":"CONFERENTE | Centro de Custo: 2652 - BEGUR"
+},
+	{
+	"cod_funcao":"92",
+	"descricao":"CONSELHEIRO | Centro de Custo: 2739 - CONSELHO DE ADMINISTRACAO"
+},
+	{
+	"cod_funcao":"11",
+	"descricao":"CONTROLADOR SUCATA | Centro de Custo: 2130 - MANUTENCAO ELETRICA\/MECANICA\/CIVIL"
+},
+	{
+	"cod_funcao":"27",
+	"descricao":"COORD COMPRAS | Centro de Custo: 2350 - SUPRIMENTOS"
+},
+	{
+	"cod_funcao":"59",
+	"descricao":"COORD CONTROLADORIA | Centro de Custo: 2702 - CONTROLADORIA"
+},
+	{
+	"cod_funcao":"55",
+	"descricao":"COORD CUSTOS | Centro de Custo: 2702 - CONTROLADORIA"
+},
+	{
+	"cod_funcao":"20",
+	"descricao":"COORD DE PROJ DE ENGENHARIA | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"34",
+	"descricao":"COORD EXPORTACAO E IMPORTACAO | Centro de Custo: 2355 - GLOBAL SOURCING"
+},
+	{
+	"cod_funcao":"23",
+	"descricao":"COORD LABORATORIO DE REFRIG | Centro de Custo: 2304 - LABORATORIO REFRIGERACAO"
+},
+	{
+	"cod_funcao":"49",
+	"descricao":"COORD MARKETING | Centro de Custo: 2630 - MARKETING"
+},
+	{
+	"cod_funcao":"83",
+	"descricao":"COORD PLANEJ FINANCEIRO E RI | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"37",
+	"descricao":"COORD PROJ MELHORIA CONTINUA | Centro de Custo: 2501 - GARANTIA DA QUALIDADE"
+},
+	{
+	"cod_funcao":"67",
+	"descricao":"COORD RECURSOS HUMANOS | Centro de Custo: 2704 - RECURSOS HUMANOS"
+},
+	{
+	"cod_funcao":"16",
+	"descricao":"COORDENADOR DE ENGENHARIA | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"73",
+	"descricao":"COORDENADOR DE INFRAESTRUTURA | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"75",
+	"descricao":"COORDENADOR DE SISTEMAS | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"45",
+	"descricao":"COORDENADOR DE VENDAS | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"86",
+	"descricao":"COORDENADOR FINANCEIRO | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"61",
+	"descricao":"COORDENADOR FISCAL | Centro de Custo: 2703 - FISCAL"
+},
+	{
+	"cod_funcao":"96",
+	"descricao":"COORDENADOR JURIDICO | Centro de Custo: 2750 - JURIDICO"
+},
+	{
+	"cod_funcao":"9",
+	"descricao":"COORDENADOR REVENDA PECAS | Centro de Custo: 2910 - REVENDA DE PECAS"
+},
+	{
+	"cod_funcao":"10",
+	"descricao":"DESENHISTA PROJETISTA JR | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"48",
+	"descricao":"DIRETOR DE MARKETING | Centro de Custo: 2630 - MARKETING"
+},
+	{
+	"cod_funcao":"4",
+	"descricao":"DIRETOR DE OPER DE MANUFATURA | Centro de Custo: 2101 - GERENCIA INDUSTRIAL REFRIGERACAO"
+},
+	{
+	"cod_funcao":"3",
+	"descricao":"DIRETOR DE OPERACOES | Centro de Custo: 2101 - GERENCIA INDUSTRIAL REFRIGERACAO"
+},
+	{
+	"cod_funcao":"36",
+	"descricao":"DIRETOR DE SUPRIMENTOS | Centro de Custo: 2355 - GLOBAL SOURCING"
+},
+	{
+	"cod_funcao":"44",
+	"descricao":"DIRETOR DE VENDAS E MARKETING | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"53",
+	"descricao":"DIRETOR ESTATUTARIO | Centro de Custo: 2700 - CORPORATE"
+},
+	{
+	"cod_funcao":"80",
+	"descricao":"DIRETOR FINANCEIRO | Centro de Custo: 2734 - DIRETORIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"54",
+	"descricao":"DIRETOR GLOBAL LIFE CYCLE | Centro de Custo: 2700 - CORPORATE"
+},
+	{
+	"cod_funcao":"98",
+	"descricao":"ENC PRODUCAO | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"18",
+	"descricao":"ENG PRODUTO JR | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"24",
+	"descricao":"ENGENHEIRO ELETROTECNICO | Centro de Custo: 2304 - LABORATORIO REFRIGERACAO"
+},
+	{
+	"cod_funcao":"19",
+	"descricao":"ESPECIALISTA DESIGNER IND SR ESPEC. | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"46",
+	"descricao":"ESTAGIARIO | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"58",
+	"descricao":"ESTAGIARIO | Centro de Custo: 2702 - CONTROLADORIA"
+},
+	{
+	"cod_funcao":"29",
+	"descricao":"GER SUPRIMENTOS | Centro de Custo: 2353 - SUPRIMENTOS II"
+},
+	{
+	"cod_funcao":"43",
+	"descricao":"GERENTE ADMINISTRATIVO VENDAS | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"88",
+	"descricao":"GERENTE DE CONTABILIDADE | Centro de Custo: 2736 - CONTABILIDADE"
+},
+	{
+	"cod_funcao":"15",
+	"descricao":"GERENTE DE ENGENHARIA | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"41",
+	"descricao":"GERENTE DE VENDAS | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"60",
+	"descricao":"GERENTE FISCAL | Centro de Custo: 2703 - FISCAL"
+},
+	{
+	"cod_funcao":"71",
+	"descricao":"GERENTE REGIONAL DE TI | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"6",
+	"descricao":"INSPETOR QUALIDADE | Centro de Custo: 2110 - FABRICACAO"
+},
+	{
+	"cod_funcao":"38",
+	"descricao":"INSPETOR QUALIDADE | Centro de Custo: 2503 - QUALIDADE DE CAMPO"
+},
+	{
+	"cod_funcao":"50",
+	"descricao":"LIDER DE LOGISTICA | Centro de Custo: 2652 - BEGUR"
+},
+	{
+	"cod_funcao":"94",
+	"descricao":"MECANICO MANUTENCAO | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"95",
+	"descricao":"MECANICO REFRIGERACAO | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"2",
+	"descricao":"Nao Definido | Nao Definido"
+},
+	{
+	"cod_funcao":"7",
+	"descricao":"OPERADOR DE MAQUINAS | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"8",
+	"descricao":"OPERADOR DE PRODUCAO | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"26",
+	"descricao":"PROTOTIPISTA JR | Centro de Custo: 2305 - PROTOTIPOS"
+},
+	{
+	"cod_funcao":"52",
+	"descricao":"SECRETARIA BILINGUE EXECUTIVA PL | Centro de Custo: 2700 - CORPORATE"
+},
+	{
+	"cod_funcao":"17",
+	"descricao":"TEC PRODUTO PL | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"25",
+	"descricao":"TEC REFRIGERACAO JR | Centro de Custo: 2304 - LABORATORIO REFRIGERACAO"
+},
+	{
+	"cod_funcao":"22",
+	"descricao":"TEC REFRIGERACAO PL | Centro de Custo: 2304 - LABORATORIO REFRIGERACAO"
+},
+	{
+	"cod_funcao":"5",
+	"descricao":"TEC SEGURANCA NO TRABALHO | Centro de Custo: 2103 - SEGURANCA INDUSTRIAL"
+},
+	{
+	"cod_funcao":"12",
+	"descricao":"TECNICO EM MEIO AMBIENTE | Centro de Custo: 2136 - MEIO AMBIENTE"
+},
+	{
+	"cod_funcao":"1",
+	"descricao":"TESTE"
+}
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM0NjA0MzAsImlhdCI6MTU5MzQ2MDM3MH0.2ul_4zOE5M0d1xhf6vufgjxRLfS9hMBLiG3u0e8EuDw",
+	"instancia":"1",
+	"sistema":"DATASUL",
+	"origem":"ERP",
+	"inicial":"0",
+	"final":"100"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 29/06/2020 20:09:47
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 601
+API: token
+Class: ApiController
+
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 29/06/2020 20:09:47
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 606
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 29/06/2020 20:09:47
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 74
+API: funcoes
+Class: ApiController
+{
+	"cod_funcao":"100",
+	"descricao":"ALMOXARIFE | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"47",
+	"descricao":"AN ADMINISTRATIVO VENDAS JR | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"85",
+	"descricao":"AN COBRANCA SR | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"90",
+	"descricao":"AN CONTABIL PL | Centro de Custo: 2736 - CONTABILIDADE"
+},
+	{
+	"cod_funcao":"89",
+	"descricao":"AN CONTABIL SR | Centro de Custo: 2736 - CONTABILIDADE"
+},
+	{
+	"cod_funcao":"91",
+	"descricao":"AN CONTABIL | Centro de Custo: 2736 - CONTABILIDADE"
+},
+	{
+	"cod_funcao":"78",
+	"descricao":"AN DE SUPORTE DE SISTEMAS JR | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"35",
+	"descricao":"AN EXPORTACAO IMPORTACAO PL | Centro de Custo: 2355 - GLOBAL SOURCING"
+},
+	{
+	"cod_funcao":"62",
+	"descricao":"AN FISCAL JR | Centro de Custo: 2703 - FISCAL"
+},
+	{
+	"cod_funcao":"65",
+	"descricao":"AN FISCAL PL | Centro de Custo: 2703 - FISCAL"
+},
+	{
+	"cod_funcao":"57",
+	"descricao":"AN PLANEJAMENTO FINANCEIRO PL | Centro de Custo: 2702 - CONTROLADORIA"
+},
+	{
+	"cod_funcao":"40",
+	"descricao":"AN QUALIDADE SR | Centro de Custo: 2504 - QUALIDADE DE FORNECEDORES"
+},
+	{
+	"cod_funcao":"70",
+	"descricao":"AN RECURSOS HUMANOS PL | Centro de Custo: 2704 - RECURSOS HUMANOS"
+},
+	{
+	"cod_funcao":"66",
+	"descricao":"AN RECURSOS HUMANOS SR | Centro de Custo: 2704 - RECURSOS HUMANOS"
+},
+	{
+	"cod_funcao":"79",
+	"descricao":"AN SEGURANCA DA INFORMACAO PL | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"76",
+	"descricao":"AN SISTEMAS PL | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"74",
+	"descricao":"AN SISTEMAS SR | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"42",
+	"descricao":"AN VENDAS SR | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"84",
+	"descricao":"ANALISTA DE CREDITO SR | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"56",
+	"descricao":"ANALISTA DE CUSTOS PL | Centro de Custo: 2702 - CONTROLADORIA"
+},
+	{
+	"cod_funcao":"72",
+	"descricao":"ANALISTA DE INFRAESTRUTURA JR | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"77",
+	"descricao":"ANALISTA DE INFRAESTRUTURA PL | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"81",
+	"descricao":"ANALISTA FINANCEIRO PL | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"82",
+	"descricao":"ANALISTA FINANCEIRO SR | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"97",
+	"descricao":"ANALISTA JURIDICO | Centro de Custo: 2750 - JURIDICO"
+},
+	{
+	"cod_funcao":"14",
+	"descricao":"ANALISTA PCM SR | Centro de Cutso: 2151 - PLANEJAMENTO E CONTR.MATERIAIS - PCM"
+},
+	{
+	"cod_funcao":"13",
+	"descricao":"ANALISTA PLANEJ MATERIAIS PL | Centro de Custo: 2151 - PLANEJAMENTO E CONTR.MATERIAIS - PCM"
+},
+	{
+	"cod_funcao":"68",
+	"descricao":"ASSISTENTE DE RECURSOS HUMANOS | Centro de Custo: 2704 - RECURSOS HUMANOS"
+},
+	{
+	"cod_funcao":"87",
+	"descricao":"ASSISTENTE FINANCEIRO | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"63",
+	"descricao":"ASSISTENTE FISCAL | Centro de Custo: 2703 - FISCAL"
+},
+	{
+	"cod_funcao":"21",
+	"descricao":"AUX ADMINISTRATIVO | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"93",
+	"descricao":"AUX ALMOXARIFADO | Centro de Custo: 2910 - REVENDA DE PECAS"
+},
+	{
+	"cod_funcao":"99",
+	"descricao":"AUX PRODUCAO | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"39",
+	"descricao":"AUXILIAR DA QUALIDADE | Centro de Custo: 2503 - QUALIDADE DE CAMPO"
+},
+	{
+	"cod_funcao":"64",
+	"descricao":"AUXILIAR ESCRITA FISCAL | Centro de Custo: 2703 - FISCAL"
+},
+	{
+	"cod_funcao":"69",
+	"descricao":"AUXILIAR RECURSOS HUMANOS | Centro de Custo: 2704 - RECURSOS HUMANOS"
+},
+	{
+	"cod_funcao":"33",
+	"descricao":"COMPRADOR DE PROJETOS SR | Centro de Custo: 2353 - SUPRIMENTOS II"
+},
+	{
+	"cod_funcao":"28",
+	"descricao":"COMPRADOR JR | Centro de Custo: 2350 - SUPRIMENTOS"
+},
+	{
+	"cod_funcao":"32",
+	"descricao":"COMPRADOR JR | Centro de Custo: 2353 - SUPRIMENTOS II"
+},
+	{
+	"cod_funcao":"30",
+	"descricao":"COMPRADOR PL | Centro de Custo: 2353 - SUPRIMENTOS II"
+},
+	{
+	"cod_funcao":"31",
+	"descricao":"COMPRADOR SR | Centro de Custo: 2353 - SUPRIMENTOS II"
+},
+	{
+	"cod_funcao":"51",
+	"descricao":"CONFERENTE | Centro de Custo: 2652 - BEGUR"
+},
+	{
+	"cod_funcao":"92",
+	"descricao":"CONSELHEIRO | Centro de Custo: 2739 - CONSELHO DE ADMINISTRACAO"
+},
+	{
+	"cod_funcao":"11",
+	"descricao":"CONTROLADOR SUCATA | Centro de Custo: 2130 - MANUTENCAO ELETRICA\/MECANICA\/CIVIL"
+},
+	{
+	"cod_funcao":"27",
+	"descricao":"COORD COMPRAS | Centro de Custo: 2350 - SUPRIMENTOS"
+},
+	{
+	"cod_funcao":"59",
+	"descricao":"COORD CONTROLADORIA | Centro de Custo: 2702 - CONTROLADORIA"
+},
+	{
+	"cod_funcao":"55",
+	"descricao":"COORD CUSTOS | Centro de Custo: 2702 - CONTROLADORIA"
+},
+	{
+	"cod_funcao":"20",
+	"descricao":"COORD DE PROJ DE ENGENHARIA | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"34",
+	"descricao":"COORD EXPORTACAO E IMPORTACAO | Centro de Custo: 2355 - GLOBAL SOURCING"
+},
+	{
+	"cod_funcao":"23",
+	"descricao":"COORD LABORATORIO DE REFRIG | Centro de Custo: 2304 - LABORATORIO REFRIGERACAO"
+},
+	{
+	"cod_funcao":"49",
+	"descricao":"COORD MARKETING | Centro de Custo: 2630 - MARKETING"
+},
+	{
+	"cod_funcao":"83",
+	"descricao":"COORD PLANEJ FINANCEIRO E RI | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"37",
+	"descricao":"COORD PROJ MELHORIA CONTINUA | Centro de Custo: 2501 - GARANTIA DA QUALIDADE"
+},
+	{
+	"cod_funcao":"67",
+	"descricao":"COORD RECURSOS HUMANOS | Centro de Custo: 2704 - RECURSOS HUMANOS"
+},
+	{
+	"cod_funcao":"16",
+	"descricao":"COORDENADOR DE ENGENHARIA | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"73",
+	"descricao":"COORDENADOR DE INFRAESTRUTURA | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"75",
+	"descricao":"COORDENADOR DE SISTEMAS | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"45",
+	"descricao":"COORDENADOR DE VENDAS | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"86",
+	"descricao":"COORDENADOR FINANCEIRO | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"61",
+	"descricao":"COORDENADOR FISCAL | Centro de Custo: 2703 - FISCAL"
+},
+	{
+	"cod_funcao":"96",
+	"descricao":"COORDENADOR JURIDICO | Centro de Custo: 2750 - JURIDICO"
+},
+	{
+	"cod_funcao":"9",
+	"descricao":"COORDENADOR REVENDA PECAS | Centro de Custo: 2910 - REVENDA DE PECAS"
+},
+	{
+	"cod_funcao":"10",
+	"descricao":"DESENHISTA PROJETISTA JR | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"48",
+	"descricao":"DIRETOR DE MARKETING | Centro de Custo: 2630 - MARKETING"
+},
+	{
+	"cod_funcao":"4",
+	"descricao":"DIRETOR DE OPER DE MANUFATURA | Centro de Custo: 2101 - GERENCIA INDUSTRIAL REFRIGERACAO"
+},
+	{
+	"cod_funcao":"3",
+	"descricao":"DIRETOR DE OPERACOES | Centro de Custo: 2101 - GERENCIA INDUSTRIAL REFRIGERACAO"
+},
+	{
+	"cod_funcao":"36",
+	"descricao":"DIRETOR DE SUPRIMENTOS | Centro de Custo: 2355 - GLOBAL SOURCING"
+},
+	{
+	"cod_funcao":"44",
+	"descricao":"DIRETOR DE VENDAS E MARKETING | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"53",
+	"descricao":"DIRETOR ESTATUTARIO | Centro de Custo: 2700 - CORPORATE"
+},
+	{
+	"cod_funcao":"80",
+	"descricao":"DIRETOR FINANCEIRO | Centro de Custo: 2734 - DIRETORIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"54",
+	"descricao":"DIRETOR GLOBAL LIFE CYCLE | Centro de Custo: 2700 - CORPORATE"
+},
+	{
+	"cod_funcao":"98",
+	"descricao":"ENC PRODUCAO | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"18",
+	"descricao":"ENG PRODUTO JR | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"24",
+	"descricao":"ENGENHEIRO ELETROTECNICO | Centro de Custo: 2304 - LABORATORIO REFRIGERACAO"
+},
+	{
+	"cod_funcao":"19",
+	"descricao":"ESPECIALISTA DESIGNER IND SR ESPEC. | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"46",
+	"descricao":"ESTAGIARIO | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"58",
+	"descricao":"ESTAGIARIO | Centro de Custo: 2702 - CONTROLADORIA"
+},
+	{
+	"cod_funcao":"29",
+	"descricao":"GER SUPRIMENTOS | Centro de Custo: 2353 - SUPRIMENTOS II"
+},
+	{
+	"cod_funcao":"43",
+	"descricao":"GERENTE ADMINISTRATIVO VENDAS | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"88",
+	"descricao":"GERENTE DE CONTABILIDADE | Centro de Custo: 2736 - CONTABILIDADE"
+},
+	{
+	"cod_funcao":"15",
+	"descricao":"GERENTE DE ENGENHARIA | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"41",
+	"descricao":"GERENTE DE VENDAS | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"60",
+	"descricao":"GERENTE FISCAL | Centro de Custo: 2703 - FISCAL"
+},
+	{
+	"cod_funcao":"71",
+	"descricao":"GERENTE REGIONAL DE TI | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"6",
+	"descricao":"INSPETOR QUALIDADE | Centro de Custo: 2110 - FABRICACAO"
+},
+	{
+	"cod_funcao":"38",
+	"descricao":"INSPETOR QUALIDADE | Centro de Custo: 2503 - QUALIDADE DE CAMPO"
+},
+	{
+	"cod_funcao":"50",
+	"descricao":"LIDER DE LOGISTICA | Centro de Custo: 2652 - BEGUR"
+},
+	{
+	"cod_funcao":"94",
+	"descricao":"MECANICO MANUTENCAO | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"95",
+	"descricao":"MECANICO REFRIGERACAO | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"2",
+	"descricao":"Nao Definido | Nao Definido"
+},
+	{
+	"cod_funcao":"7",
+	"descricao":"OPERADOR DE MAQUINAS | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"8",
+	"descricao":"OPERADOR DE PRODUCAO | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"26",
+	"descricao":"PROTOTIPISTA JR | Centro de Custo: 2305 - PROTOTIPOS"
+},
+	{
+	"cod_funcao":"52",
+	"descricao":"SECRETARIA BILINGUE EXECUTIVA PL | Centro de Custo: 2700 - CORPORATE"
+},
+	{
+	"cod_funcao":"17",
+	"descricao":"TEC PRODUTO PL | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"25",
+	"descricao":"TEC REFRIGERACAO JR | Centro de Custo: 2304 - LABORATORIO REFRIGERACAO"
+},
+	{
+	"cod_funcao":"22",
+	"descricao":"TEC REFRIGERACAO PL | Centro de Custo: 2304 - LABORATORIO REFRIGERACAO"
+},
+	{
+	"cod_funcao":"5",
+	"descricao":"TEC SEGURANCA NO TRABALHO | Centro de Custo: 2103 - SEGURANCA INDUSTRIAL"
+},
+	{
+	"cod_funcao":"12",
+	"descricao":"TECNICO EM MEIO AMBIENTE | Centro de Custo: 2136 - MEIO AMBIENTE"
+},
+	{
+	"cod_funcao":"1",
+	"descricao":"TESTE"
+}
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM0NjE0NDcsImlhdCI6MTU5MzQ2MTM4N30.1PsoCqDB4BhXEd31OQJ9Pf82DdwxGhHGfw4MQJ486-0",
+	"instancia":"1",
+	"sistema":"DATASUL",
+	"origem":"ERP",
+	"inicial":"0",
+	"final":"100"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 29/06/2020 20:49:19
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 601
+API: token
+Class: ApiController
+
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 29/06/2020 20:49:19
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 606
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 29/06/2020 20:49:20
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 74
+API: funcoes
+Class: ApiController
+{
+	"cod_funcao":"100",
+	"descricao":"ALMOXARIFE | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"47",
+	"descricao":"AN ADMINISTRATIVO VENDAS JR | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"85",
+	"descricao":"AN COBRANCA SR | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"90",
+	"descricao":"AN CONTABIL PL | Centro de Custo: 2736 - CONTABILIDADE"
+},
+	{
+	"cod_funcao":"89",
+	"descricao":"AN CONTABIL SR | Centro de Custo: 2736 - CONTABILIDADE"
+},
+	{
+	"cod_funcao":"91",
+	"descricao":"AN CONTABIL | Centro de Custo: 2736 - CONTABILIDADE"
+},
+	{
+	"cod_funcao":"78",
+	"descricao":"AN DE SUPORTE DE SISTEMAS JR | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"35",
+	"descricao":"AN EXPORTACAO IMPORTACAO PL | Centro de Custo: 2355 - GLOBAL SOURCING"
+},
+	{
+	"cod_funcao":"62",
+	"descricao":"AN FISCAL JR | Centro de Custo: 2703 - FISCAL"
+},
+	{
+	"cod_funcao":"65",
+	"descricao":"AN FISCAL PL | Centro de Custo: 2703 - FISCAL"
+},
+	{
+	"cod_funcao":"57",
+	"descricao":"AN PLANEJAMENTO FINANCEIRO PL | Centro de Custo: 2702 - CONTROLADORIA"
+},
+	{
+	"cod_funcao":"40",
+	"descricao":"AN QUALIDADE SR | Centro de Custo: 2504 - QUALIDADE DE FORNECEDORES"
+},
+	{
+	"cod_funcao":"70",
+	"descricao":"AN RECURSOS HUMANOS PL | Centro de Custo: 2704 - RECURSOS HUMANOS"
+},
+	{
+	"cod_funcao":"66",
+	"descricao":"AN RECURSOS HUMANOS SR | Centro de Custo: 2704 - RECURSOS HUMANOS"
+},
+	{
+	"cod_funcao":"79",
+	"descricao":"AN SEGURANCA DA INFORMACAO PL | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"76",
+	"descricao":"AN SISTEMAS PL | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"74",
+	"descricao":"AN SISTEMAS SR | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"42",
+	"descricao":"AN VENDAS SR | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"84",
+	"descricao":"ANALISTA DE CREDITO SR | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"56",
+	"descricao":"ANALISTA DE CUSTOS PL | Centro de Custo: 2702 - CONTROLADORIA"
+},
+	{
+	"cod_funcao":"72",
+	"descricao":"ANALISTA DE INFRAESTRUTURA JR | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"77",
+	"descricao":"ANALISTA DE INFRAESTRUTURA PL | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"81",
+	"descricao":"ANALISTA FINANCEIRO PL | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"82",
+	"descricao":"ANALISTA FINANCEIRO SR | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"97",
+	"descricao":"ANALISTA JURIDICO | Centro de Custo: 2750 - JURIDICO"
+},
+	{
+	"cod_funcao":"14",
+	"descricao":"ANALISTA PCM SR | Centro de Cutso: 2151 - PLANEJAMENTO E CONTR.MATERIAIS - PCM"
+},
+	{
+	"cod_funcao":"13",
+	"descricao":"ANALISTA PLANEJ MATERIAIS PL | Centro de Custo: 2151 - PLANEJAMENTO E CONTR.MATERIAIS - PCM"
+},
+	{
+	"cod_funcao":"68",
+	"descricao":"ASSISTENTE DE RECURSOS HUMANOS | Centro de Custo: 2704 - RECURSOS HUMANOS"
+},
+	{
+	"cod_funcao":"87",
+	"descricao":"ASSISTENTE FINANCEIRO | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"63",
+	"descricao":"ASSISTENTE FISCAL | Centro de Custo: 2703 - FISCAL"
+},
+	{
+	"cod_funcao":"21",
+	"descricao":"AUX ADMINISTRATIVO | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"93",
+	"descricao":"AUX ALMOXARIFADO | Centro de Custo: 2910 - REVENDA DE PECAS"
+},
+	{
+	"cod_funcao":"99",
+	"descricao":"AUX PRODUCAO | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"39",
+	"descricao":"AUXILIAR DA QUALIDADE | Centro de Custo: 2503 - QUALIDADE DE CAMPO"
+},
+	{
+	"cod_funcao":"64",
+	"descricao":"AUXILIAR ESCRITA FISCAL | Centro de Custo: 2703 - FISCAL"
+},
+	{
+	"cod_funcao":"69",
+	"descricao":"AUXILIAR RECURSOS HUMANOS | Centro de Custo: 2704 - RECURSOS HUMANOS"
+},
+	{
+	"cod_funcao":"33",
+	"descricao":"COMPRADOR DE PROJETOS SR | Centro de Custo: 2353 - SUPRIMENTOS II"
+},
+	{
+	"cod_funcao":"28",
+	"descricao":"COMPRADOR JR | Centro de Custo: 2350 - SUPRIMENTOS"
+},
+	{
+	"cod_funcao":"32",
+	"descricao":"COMPRADOR JR | Centro de Custo: 2353 - SUPRIMENTOS II"
+},
+	{
+	"cod_funcao":"30",
+	"descricao":"COMPRADOR PL | Centro de Custo: 2353 - SUPRIMENTOS II"
+},
+	{
+	"cod_funcao":"31",
+	"descricao":"COMPRADOR SR | Centro de Custo: 2353 - SUPRIMENTOS II"
+},
+	{
+	"cod_funcao":"51",
+	"descricao":"CONFERENTE | Centro de Custo: 2652 - BEGUR"
+},
+	{
+	"cod_funcao":"92",
+	"descricao":"CONSELHEIRO | Centro de Custo: 2739 - CONSELHO DE ADMINISTRACAO"
+},
+	{
+	"cod_funcao":"11",
+	"descricao":"CONTROLADOR SUCATA | Centro de Custo: 2130 - MANUTENCAO ELETRICA\/MECANICA\/CIVIL"
+},
+	{
+	"cod_funcao":"27",
+	"descricao":"COORD COMPRAS | Centro de Custo: 2350 - SUPRIMENTOS"
+},
+	{
+	"cod_funcao":"59",
+	"descricao":"COORD CONTROLADORIA | Centro de Custo: 2702 - CONTROLADORIA"
+},
+	{
+	"cod_funcao":"55",
+	"descricao":"COORD CUSTOS | Centro de Custo: 2702 - CONTROLADORIA"
+},
+	{
+	"cod_funcao":"20",
+	"descricao":"COORD DE PROJ DE ENGENHARIA | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"34",
+	"descricao":"COORD EXPORTACAO E IMPORTACAO | Centro de Custo: 2355 - GLOBAL SOURCING"
+},
+	{
+	"cod_funcao":"23",
+	"descricao":"COORD LABORATORIO DE REFRIG | Centro de Custo: 2304 - LABORATORIO REFRIGERACAO"
+},
+	{
+	"cod_funcao":"49",
+	"descricao":"COORD MARKETING | Centro de Custo: 2630 - MARKETING"
+},
+	{
+	"cod_funcao":"83",
+	"descricao":"COORD PLANEJ FINANCEIRO E RI | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"37",
+	"descricao":"COORD PROJ MELHORIA CONTINUA | Centro de Custo: 2501 - GARANTIA DA QUALIDADE"
+},
+	{
+	"cod_funcao":"67",
+	"descricao":"COORD RECURSOS HUMANOS | Centro de Custo: 2704 - RECURSOS HUMANOS"
+},
+	{
+	"cod_funcao":"16",
+	"descricao":"COORDENADOR DE ENGENHARIA | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"73",
+	"descricao":"COORDENADOR DE INFRAESTRUTURA | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"75",
+	"descricao":"COORDENADOR DE SISTEMAS | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"45",
+	"descricao":"COORDENADOR DE VENDAS | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"86",
+	"descricao":"COORDENADOR FINANCEIRO | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"61",
+	"descricao":"COORDENADOR FISCAL | Centro de Custo: 2703 - FISCAL"
+},
+	{
+	"cod_funcao":"96",
+	"descricao":"COORDENADOR JURIDICO | Centro de Custo: 2750 - JURIDICO"
+},
+	{
+	"cod_funcao":"9",
+	"descricao":"COORDENADOR REVENDA PECAS | Centro de Custo: 2910 - REVENDA DE PECAS"
+},
+	{
+	"cod_funcao":"10",
+	"descricao":"DESENHISTA PROJETISTA JR | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"48",
+	"descricao":"DIRETOR DE MARKETING | Centro de Custo: 2630 - MARKETING"
+},
+	{
+	"cod_funcao":"4",
+	"descricao":"DIRETOR DE OPER DE MANUFATURA | Centro de Custo: 2101 - GERENCIA INDUSTRIAL REFRIGERACAO"
+},
+	{
+	"cod_funcao":"3",
+	"descricao":"DIRETOR DE OPERACOES | Centro de Custo: 2101 - GERENCIA INDUSTRIAL REFRIGERACAO"
+},
+	{
+	"cod_funcao":"36",
+	"descricao":"DIRETOR DE SUPRIMENTOS | Centro de Custo: 2355 - GLOBAL SOURCING"
+},
+	{
+	"cod_funcao":"44",
+	"descricao":"DIRETOR DE VENDAS E MARKETING | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"53",
+	"descricao":"DIRETOR ESTATUTARIO | Centro de Custo: 2700 - CORPORATE"
+},
+	{
+	"cod_funcao":"80",
+	"descricao":"DIRETOR FINANCEIRO | Centro de Custo: 2734 - DIRETORIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"54",
+	"descricao":"DIRETOR GLOBAL LIFE CYCLE | Centro de Custo: 2700 - CORPORATE"
+},
+	{
+	"cod_funcao":"98",
+	"descricao":"ENC PRODUCAO | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"18",
+	"descricao":"ENG PRODUTO JR | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"24",
+	"descricao":"ENGENHEIRO ELETROTECNICO | Centro de Custo: 2304 - LABORATORIO REFRIGERACAO"
+},
+	{
+	"cod_funcao":"19",
+	"descricao":"ESPECIALISTA DESIGNER IND SR ESPEC. | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"46",
+	"descricao":"ESTAGIARIO | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"58",
+	"descricao":"ESTAGIARIO | Centro de Custo: 2702 - CONTROLADORIA"
+},
+	{
+	"cod_funcao":"29",
+	"descricao":"GER SUPRIMENTOS | Centro de Custo: 2353 - SUPRIMENTOS II"
+},
+	{
+	"cod_funcao":"43",
+	"descricao":"GERENTE ADMINISTRATIVO VENDAS | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"88",
+	"descricao":"GERENTE DE CONTABILIDADE | Centro de Custo: 2736 - CONTABILIDADE"
+},
+	{
+	"cod_funcao":"15",
+	"descricao":"GERENTE DE ENGENHARIA | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"41",
+	"descricao":"GERENTE DE VENDAS | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"60",
+	"descricao":"GERENTE FISCAL | Centro de Custo: 2703 - FISCAL"
+},
+	{
+	"cod_funcao":"71",
+	"descricao":"GERENTE REGIONAL DE TI | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"6",
+	"descricao":"INSPETOR QUALIDADE | Centro de Custo: 2110 - FABRICACAO"
+},
+	{
+	"cod_funcao":"38",
+	"descricao":"INSPETOR QUALIDADE | Centro de Custo: 2503 - QUALIDADE DE CAMPO"
+},
+	{
+	"cod_funcao":"50",
+	"descricao":"LIDER DE LOGISTICA | Centro de Custo: 2652 - BEGUR"
+},
+	{
+	"cod_funcao":"94",
+	"descricao":"MECANICO MANUTENCAO | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"95",
+	"descricao":"MECANICO REFRIGERACAO | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"2",
+	"descricao":"Nao Definido | Nao Definido"
+},
+	{
+	"cod_funcao":"7",
+	"descricao":"OPERADOR DE MAQUINAS | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"8",
+	"descricao":"OPERADOR DE PRODUCAO | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"26",
+	"descricao":"PROTOTIPISTA JR | Centro de Custo: 2305 - PROTOTIPOS"
+},
+	{
+	"cod_funcao":"52",
+	"descricao":"SECRETARIA BILINGUE EXECUTIVA PL | Centro de Custo: 2700 - CORPORATE"
+},
+	{
+	"cod_funcao":"17",
+	"descricao":"TEC PRODUTO PL | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"25",
+	"descricao":"TEC REFRIGERACAO JR | Centro de Custo: 2304 - LABORATORIO REFRIGERACAO"
+},
+	{
+	"cod_funcao":"22",
+	"descricao":"TEC REFRIGERACAO PL | Centro de Custo: 2304 - LABORATORIO REFRIGERACAO"
+},
+	{
+	"cod_funcao":"5",
+	"descricao":"TEC SEGURANCA NO TRABALHO | Centro de Custo: 2103 - SEGURANCA INDUSTRIAL"
+},
+	{
+	"cod_funcao":"12",
+	"descricao":"TECNICO EM MEIO AMBIENTE | Centro de Custo: 2136 - MEIO AMBIENTE"
+},
+	{
+	"cod_funcao":"1",
+	"descricao":"TESTE"
+}
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM0NjM4MTksImlhdCI6MTU5MzQ2Mzc1OX0.gtkYIhw2gUoIBVZx9J3-pS1A5D8n2ZmvwR8Esy6zXhY",
+	"instancia":"1",
+	"sistema":"DATASUL",
+	"origem":"ERP",
+	"inicial":"0",
+	"final":"100"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 29/06/2020 21:35:41
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 601
+API: token
+Class: ApiController
+
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 29/06/2020 21:35:41
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 606
+API: token
+Class: ApiController
+Token gerado com sucesso
+Json: {
+	"usuario":"super",
+	"senha":"ngf123",
+	"ambiente":"DEV"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Data: 29/06/2020 21:35:41
+File: /home/wwapps/public_html/dev/controllers/ApiController.php
+Line: 74
+API: funcoes
+Class: ApiController
+{
+	"cod_funcao":"100",
+	"descricao":"ALMOXARIFE | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"47",
+	"descricao":"AN ADMINISTRATIVO VENDAS JR | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"85",
+	"descricao":"AN COBRANCA SR | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"90",
+	"descricao":"AN CONTABIL PL | Centro de Custo: 2736 - CONTABILIDADE"
+},
+	{
+	"cod_funcao":"89",
+	"descricao":"AN CONTABIL SR | Centro de Custo: 2736 - CONTABILIDADE"
+},
+	{
+	"cod_funcao":"91",
+	"descricao":"AN CONTABIL | Centro de Custo: 2736 - CONTABILIDADE"
+},
+	{
+	"cod_funcao":"78",
+	"descricao":"AN DE SUPORTE DE SISTEMAS JR | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"35",
+	"descricao":"AN EXPORTACAO IMPORTACAO PL | Centro de Custo: 2355 - GLOBAL SOURCING"
+},
+	{
+	"cod_funcao":"62",
+	"descricao":"AN FISCAL JR | Centro de Custo: 2703 - FISCAL"
+},
+	{
+	"cod_funcao":"65",
+	"descricao":"AN FISCAL PL | Centro de Custo: 2703 - FISCAL"
+},
+	{
+	"cod_funcao":"57",
+	"descricao":"AN PLANEJAMENTO FINANCEIRO PL | Centro de Custo: 2702 - CONTROLADORIA"
+},
+	{
+	"cod_funcao":"40",
+	"descricao":"AN QUALIDADE SR | Centro de Custo: 2504 - QUALIDADE DE FORNECEDORES"
+},
+	{
+	"cod_funcao":"70",
+	"descricao":"AN RECURSOS HUMANOS PL | Centro de Custo: 2704 - RECURSOS HUMANOS"
+},
+	{
+	"cod_funcao":"66",
+	"descricao":"AN RECURSOS HUMANOS SR | Centro de Custo: 2704 - RECURSOS HUMANOS"
+},
+	{
+	"cod_funcao":"79",
+	"descricao":"AN SEGURANCA DA INFORMACAO PL | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"76",
+	"descricao":"AN SISTEMAS PL | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"74",
+	"descricao":"AN SISTEMAS SR | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"42",
+	"descricao":"AN VENDAS SR | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"84",
+	"descricao":"ANALISTA DE CREDITO SR | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"56",
+	"descricao":"ANALISTA DE CUSTOS PL | Centro de Custo: 2702 - CONTROLADORIA"
+},
+	{
+	"cod_funcao":"72",
+	"descricao":"ANALISTA DE INFRAESTRUTURA JR | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"77",
+	"descricao":"ANALISTA DE INFRAESTRUTURA PL | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"81",
+	"descricao":"ANALISTA FINANCEIRO PL | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"82",
+	"descricao":"ANALISTA FINANCEIRO SR | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"97",
+	"descricao":"ANALISTA JURIDICO | Centro de Custo: 2750 - JURIDICO"
+},
+	{
+	"cod_funcao":"14",
+	"descricao":"ANALISTA PCM SR | Centro de Cutso: 2151 - PLANEJAMENTO E CONTR.MATERIAIS - PCM"
+},
+	{
+	"cod_funcao":"13",
+	"descricao":"ANALISTA PLANEJ MATERIAIS PL | Centro de Custo: 2151 - PLANEJAMENTO E CONTR.MATERIAIS - PCM"
+},
+	{
+	"cod_funcao":"68",
+	"descricao":"ASSISTENTE DE RECURSOS HUMANOS | Centro de Custo: 2704 - RECURSOS HUMANOS"
+},
+	{
+	"cod_funcao":"87",
+	"descricao":"ASSISTENTE FINANCEIRO | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"63",
+	"descricao":"ASSISTENTE FISCAL | Centro de Custo: 2703 - FISCAL"
+},
+	{
+	"cod_funcao":"21",
+	"descricao":"AUX ADMINISTRATIVO | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"93",
+	"descricao":"AUX ALMOXARIFADO | Centro de Custo: 2910 - REVENDA DE PECAS"
+},
+	{
+	"cod_funcao":"99",
+	"descricao":"AUX PRODUCAO | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"39",
+	"descricao":"AUXILIAR DA QUALIDADE | Centro de Custo: 2503 - QUALIDADE DE CAMPO"
+},
+	{
+	"cod_funcao":"64",
+	"descricao":"AUXILIAR ESCRITA FISCAL | Centro de Custo: 2703 - FISCAL"
+},
+	{
+	"cod_funcao":"69",
+	"descricao":"AUXILIAR RECURSOS HUMANOS | Centro de Custo: 2704 - RECURSOS HUMANOS"
+},
+	{
+	"cod_funcao":"33",
+	"descricao":"COMPRADOR DE PROJETOS SR | Centro de Custo: 2353 - SUPRIMENTOS II"
+},
+	{
+	"cod_funcao":"28",
+	"descricao":"COMPRADOR JR | Centro de Custo: 2350 - SUPRIMENTOS"
+},
+	{
+	"cod_funcao":"32",
+	"descricao":"COMPRADOR JR | Centro de Custo: 2353 - SUPRIMENTOS II"
+},
+	{
+	"cod_funcao":"30",
+	"descricao":"COMPRADOR PL | Centro de Custo: 2353 - SUPRIMENTOS II"
+},
+	{
+	"cod_funcao":"31",
+	"descricao":"COMPRADOR SR | Centro de Custo: 2353 - SUPRIMENTOS II"
+},
+	{
+	"cod_funcao":"51",
+	"descricao":"CONFERENTE | Centro de Custo: 2652 - BEGUR"
+},
+	{
+	"cod_funcao":"92",
+	"descricao":"CONSELHEIRO | Centro de Custo: 2739 - CONSELHO DE ADMINISTRACAO"
+},
+	{
+	"cod_funcao":"11",
+	"descricao":"CONTROLADOR SUCATA | Centro de Custo: 2130 - MANUTENCAO ELETRICA\/MECANICA\/CIVIL"
+},
+	{
+	"cod_funcao":"27",
+	"descricao":"COORD COMPRAS | Centro de Custo: 2350 - SUPRIMENTOS"
+},
+	{
+	"cod_funcao":"59",
+	"descricao":"COORD CONTROLADORIA | Centro de Custo: 2702 - CONTROLADORIA"
+},
+	{
+	"cod_funcao":"55",
+	"descricao":"COORD CUSTOS | Centro de Custo: 2702 - CONTROLADORIA"
+},
+	{
+	"cod_funcao":"20",
+	"descricao":"COORD DE PROJ DE ENGENHARIA | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"34",
+	"descricao":"COORD EXPORTACAO E IMPORTACAO | Centro de Custo: 2355 - GLOBAL SOURCING"
+},
+	{
+	"cod_funcao":"23",
+	"descricao":"COORD LABORATORIO DE REFRIG | Centro de Custo: 2304 - LABORATORIO REFRIGERACAO"
+},
+	{
+	"cod_funcao":"49",
+	"descricao":"COORD MARKETING | Centro de Custo: 2630 - MARKETING"
+},
+	{
+	"cod_funcao":"83",
+	"descricao":"COORD PLANEJ FINANCEIRO E RI | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"37",
+	"descricao":"COORD PROJ MELHORIA CONTINUA | Centro de Custo: 2501 - GARANTIA DA QUALIDADE"
+},
+	{
+	"cod_funcao":"67",
+	"descricao":"COORD RECURSOS HUMANOS | Centro de Custo: 2704 - RECURSOS HUMANOS"
+},
+	{
+	"cod_funcao":"16",
+	"descricao":"COORDENADOR DE ENGENHARIA | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"73",
+	"descricao":"COORDENADOR DE INFRAESTRUTURA | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"75",
+	"descricao":"COORDENADOR DE SISTEMAS | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"45",
+	"descricao":"COORDENADOR DE VENDAS | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"86",
+	"descricao":"COORDENADOR FINANCEIRO | Centro de Custo: 2735 - GERENCIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"61",
+	"descricao":"COORDENADOR FISCAL | Centro de Custo: 2703 - FISCAL"
+},
+	{
+	"cod_funcao":"96",
+	"descricao":"COORDENADOR JURIDICO | Centro de Custo: 2750 - JURIDICO"
+},
+	{
+	"cod_funcao":"9",
+	"descricao":"COORDENADOR REVENDA PECAS | Centro de Custo: 2910 - REVENDA DE PECAS"
+},
+	{
+	"cod_funcao":"10",
+	"descricao":"DESENHISTA PROJETISTA JR | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"48",
+	"descricao":"DIRETOR DE MARKETING | Centro de Custo: 2630 - MARKETING"
+},
+	{
+	"cod_funcao":"4",
+	"descricao":"DIRETOR DE OPER DE MANUFATURA | Centro de Custo: 2101 - GERENCIA INDUSTRIAL REFRIGERACAO"
+},
+	{
+	"cod_funcao":"3",
+	"descricao":"DIRETOR DE OPERACOES | Centro de Custo: 2101 - GERENCIA INDUSTRIAL REFRIGERACAO"
+},
+	{
+	"cod_funcao":"36",
+	"descricao":"DIRETOR DE SUPRIMENTOS | Centro de Custo: 2355 - GLOBAL SOURCING"
+},
+	{
+	"cod_funcao":"44",
+	"descricao":"DIRETOR DE VENDAS E MARKETING | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"53",
+	"descricao":"DIRETOR ESTATUTARIO | Centro de Custo: 2700 - CORPORATE"
+},
+	{
+	"cod_funcao":"80",
+	"descricao":"DIRETOR FINANCEIRO | Centro de Custo: 2734 - DIRETORIA FINANCEIRA"
+},
+	{
+	"cod_funcao":"54",
+	"descricao":"DIRETOR GLOBAL LIFE CYCLE | Centro de Custo: 2700 - CORPORATE"
+},
+	{
+	"cod_funcao":"98",
+	"descricao":"ENC PRODUCAO | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"18",
+	"descricao":"ENG PRODUTO JR | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"24",
+	"descricao":"ENGENHEIRO ELETROTECNICO | Centro de Custo: 2304 - LABORATORIO REFRIGERACAO"
+},
+	{
+	"cod_funcao":"19",
+	"descricao":"ESPECIALISTA DESIGNER IND SR ESPEC. | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"46",
+	"descricao":"ESTAGIARIO | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"58",
+	"descricao":"ESTAGIARIO | Centro de Custo: 2702 - CONTROLADORIA"
+},
+	{
+	"cod_funcao":"29",
+	"descricao":"GER SUPRIMENTOS | Centro de Custo: 2353 - SUPRIMENTOS II"
+},
+	{
+	"cod_funcao":"43",
+	"descricao":"GERENTE ADMINISTRATIVO VENDAS | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"88",
+	"descricao":"GERENTE DE CONTABILIDADE | Centro de Custo: 2736 - CONTABILIDADE"
+},
+	{
+	"cod_funcao":"15",
+	"descricao":"GERENTE DE ENGENHARIA | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"41",
+	"descricao":"GERENTE DE VENDAS | Centro de Custo: 2620 - VENDAS REFRIG. COMERCIAL"
+},
+	{
+	"cod_funcao":"60",
+	"descricao":"GERENTE FISCAL | Centro de Custo: 2703 - FISCAL"
+},
+	{
+	"cod_funcao":"71",
+	"descricao":"GERENTE REGIONAL DE TI | Centro de Custo: 2730 - INFORMATICA"
+},
+	{
+	"cod_funcao":"6",
+	"descricao":"INSPETOR QUALIDADE | Centro de Custo: 2110 - FABRICACAO"
+},
+	{
+	"cod_funcao":"38",
+	"descricao":"INSPETOR QUALIDADE | Centro de Custo: 2503 - QUALIDADE DE CAMPO"
+},
+	{
+	"cod_funcao":"50",
+	"descricao":"LIDER DE LOGISTICA | Centro de Custo: 2652 - BEGUR"
+},
+	{
+	"cod_funcao":"94",
+	"descricao":"MECANICO MANUTENCAO | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"95",
+	"descricao":"MECANICO REFRIGERACAO | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"2",
+	"descricao":"Nao Definido | Nao Definido"
+},
+	{
+	"cod_funcao":"7",
+	"descricao":"OPERADOR DE MAQUINAS | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"8",
+	"descricao":"OPERADOR DE PRODUCAO | Centro de Custo: 8113 - Recuperacao de Produtos"
+},
+	{
+	"cod_funcao":"26",
+	"descricao":"PROTOTIPISTA JR | Centro de Custo: 2305 - PROTOTIPOS"
+},
+	{
+	"cod_funcao":"52",
+	"descricao":"SECRETARIA BILINGUE EXECUTIVA PL | Centro de Custo: 2700 - CORPORATE"
+},
+	{
+	"cod_funcao":"17",
+	"descricao":"TEC PRODUTO PL | Centro de Custo: 2301 - PROJETO DE PRODUTOS REFRIGERACAO"
+},
+	{
+	"cod_funcao":"25",
+	"descricao":"TEC REFRIGERACAO JR | Centro de Custo: 2304 - LABORATORIO REFRIGERACAO"
+},
+	{
+	"cod_funcao":"22",
+	"descricao":"TEC REFRIGERACAO PL | Centro de Custo: 2304 - LABORATORIO REFRIGERACAO"
+},
+	{
+	"cod_funcao":"5",
+	"descricao":"TEC SEGURANCA NO TRABALHO | Centro de Custo: 2103 - SEGURANCA INDUSTRIAL"
+},
+	{
+	"cod_funcao":"12",
+	"descricao":"TECNICO EM MEIO AMBIENTE | Centro de Custo: 2136 - MEIO AMBIENTE"
+},
+	{
+	"cod_funcao":"1",
+	"descricao":"TESTE"
+}
+Json: {
+	"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1OTM0NjY2MDEsImlhdCI6MTU5MzQ2NjU0MX0.4c-WCoem-eLvY1FJcQG6Lns1S7DvauFEqDFv7HMnngA",
+	"instancia":"1",
+	"sistema":"DATASUL",
+	"origem":"ERP",
+	"inicial":"0",
+	"final":"100"
+}
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
