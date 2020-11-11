@@ -227,6 +227,7 @@
                         $query_Insert->bindValue(':idFuncao',$dados['idFuncao']);
                         $query_Insert->execute();
                         $ultimoid = $this->db ->lastInsertId();
+                        $this -> gravarGrupoModel($dados['idGrupo'],$ultimoid);
                 
                 return array('return' => true);
             } catch (Exception $e) {
@@ -238,7 +239,7 @@
         }  
         // acaba aqui
 
-        public function gravarGrupoModel($dados){
+        public function gravarGrupoModel($arrayId,$id){
          
             try{
             
@@ -248,10 +249,11 @@
                         VALUES
                             (:idGrupo,:idRegraAdmissao)");
 
-                        var_dump($ultimoid);
-                        $query_Insert->bindValue(':idGrupo',$dados['idGrupo']);
-                        $query_Insert->bindValue(':idRegraAdmissao',$ultimoid);
+                        foreach($arrayId as $key => $value):
+                        $query_Insert->bindValue(':idGrupo',$value);
+                        $query_Insert->bindValue(':idRegraAdmissao',$id);
                         $query_Insert->execute();
+                        endforeach;
                 
                 return array('return' => true);
             } catch (Exception $e) {

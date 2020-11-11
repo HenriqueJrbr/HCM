@@ -6,15 +6,15 @@ define("URL", 'http://'. str_replace('//','/', $_SERVER['HTTP_HOST']).'/HCM/PHP'
 global $config;
 global $db;
 
-$config['dbname'] = 'wwapps_hcm';
-$config['host'] = '162.214.92.26';
-$config['dbuser'] = 'wwapps_root';
-$config['dbpass'] = 'bitistech@2020!';
+// $config['dbname'] = 'wwapps_hcm';
+// $config['host'] = '162.214.92.26';
+// $config['dbuser'] = 'wwapps_root';
+// $config['dbpass'] = 'bitistech@2020!';
 
-// $config['dbname'] = 'camil_hm';
-// $config['host'] = 'localhost';
-// $config['dbuser'] = 'root';
-// $config['dbpass'] = 'q1w2e3r4';
+$config['dbname'] = 'camil_hm';
+$config['host'] = 'localhost';
+$config['dbuser'] = 'root';
+$config['dbpass'] = 'q1w2e3r4';
 
 
 try{

@@ -247,10 +247,17 @@
             $("#myModalResult").modal('show');
         }
         else{
+                var op = $('#gruposadd').find('option');
+                var arrayOp = new Array();
+                for(var i=0;i<op.length;i++)
+                {
+                arrayOp[i]= op[i].id;
+                }
+                
                 $.ajax({
                 type: 'POST',
                 url: url+'HCM/ajaxGravarRegra',
-                data: {'idEmpresa':$("#instancia").val(),'idEstabelecimento':$("#estabelecimento").val(),'idDepartamentoHCM':$("#departamento").val(),'idUnidadeLotacao':$("#unlotacao").val(),'idCentroCusto':$("#centrocusto").val(), 'idCargoBase':$("#cargobase").val(), 'idNivelHierarquico':$("#nvlh").val(), 'idFuncao':$("#funcaoSistema").val()},
+                data: {'idGrupo': arrayOp,'idEmpresa':$("#instancia").val(),'idEstabelecimento':$("#estabelecimento").val(),'idDepartamentoHCM':$("#departamento").val(),'idUnidadeLotacao':$("#unlotacao").val(),'idCentroCusto':$("#centrocusto").val(), 'idCargoBase':$("#cargobase").val(), 'idNivelHierarquico':$("#nvlh").val(), 'idFuncao':$("#funcaoSistema").val()},
                 success: function (res) {
                     $('#myModalResult .modal-body').html('<h5>Nova regra salva com sucesso!</h5>');
                     $("#myModalResult").modal('show');
@@ -261,20 +268,14 @@
                     $("#cargobase").empty();
                     $("#nvlh").empty();
                     $("#funcaoSistema").empty();
+                    $("#gp").empty();
+                    $("#gruposadd").empty();
                     $("#instancia").val("");
                     // console.log("essa é a res:"+res);
                     
                 }
             });
-            $.ajax({
-                type: 'POST',
-                url: url+'HCM/ajaxgravarGrupo',
-                data: {'idGrupo': $('#gruposadd').find('option')[0].id},
-                success: function (res) {
-                    alert("salvei o grupo");  
-                    alert(res);                  
-                }
-            });
+          
 
         }
                  
