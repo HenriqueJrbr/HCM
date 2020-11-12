@@ -48,11 +48,6 @@ class HCMController extends Controller
         $empresa = new Home();
         $hcm = new HCM();
         $dados['empresas'] = $hcm ->carregaEmpresas();
-        $dados['empresas'] = $hcm ->carregaEmpresas();
-        $dados['empresas'] = $hcm ->carregaEmpresas();
-        $dados['empresas'] = $hcm ->carregaEmpresas();
-        $dados['empresas'] = $hcm ->carregaEmpresas();
-        $dados['empresas'] = $hcm ->carregaEmpresas();
 
         $this->loadTemplate('hcm_cadastrarRegra', $dados);
     }
@@ -218,13 +213,13 @@ class HCMController extends Controller
             $this->helper->setAlert(
                 'success',
                 'Alterações realizadas com sucesso!',
-                '/HCM/'
+                'HCM/'
             );
         else:
             $this->helper->setAlert(
                 'error',
                 'Erro ao realizar alterações.\n'.$res['error'],
-                '/HCM/'
+                'HCM/'
             );
         endif;
     }
@@ -232,19 +227,10 @@ class HCMController extends Controller
     public function ajaxgravarRegra(){
         $hcm = new HCM();        
         $res = $hcm->gravarRegraModel($_POST);
-
         if($res['return'] == true):
-            $this->helper->setAlert(
-                'success',
-                'Infomações salvas com sucesso!',
-                '/HCM/'
-            );
+            $_SESSION['msg']['success']='Infomações salvas com sucesso!';
         else:
-            $this->helper->setAlert(
-                'error',
-                'Erro ao salvar.\n'.$res['error'],
-                '/HCM/'
-            );
+            $_SESSION['msg']['error']='Erro ao salvar.\n'.$res['error'];                
         endif;
     }
 
@@ -258,6 +244,7 @@ class HCMController extends Controller
                 'Infomações salvas com sucesso!',
                 '/HCM/'
             );
+            
         else:
             $this->helper->setAlert(
                 'error',
@@ -267,23 +254,23 @@ class HCMController extends Controller
         endif;
     }
 
-    public function ajaxgravarGrupo(){
-        $hcm = new HCM();        
-        $res = $hcm->gravarGrupoModel($_POST);
+    // public function ajaxgravarGrupo(){
+    //     $hcm = new HCM();        
+    //     $res = $hcm->gravarGrupoModel($_POST);
 
-        if($res['return'] == true):
-            $this->helper->setAlert(
-                'success',
-                'Infomações salvas com sucesso!',
-                '/HCM/'
-            );
-        else:
-            $this->helper->setAlert(
-                'error',
-                'Erro ao salvar.\n'.$res['error'],
-                '/HCM/'
-            );
-        endif;
-    }
+    //     if($res['return'] == true):
+    //         $this->helper->setAlert(
+    //             'success',
+    //             'Infomações salvas com sucesso!',
+    //             '/HCM/'
+    //         );
+    //     else:
+    //         $this->helper->setAlert(
+    //             'error',
+    //             'Erro ao salvar.\n'.$res['error'],
+    //             '/HCM/'
+    //         );
+    //     endif;
+    // }
 }
 ?>
