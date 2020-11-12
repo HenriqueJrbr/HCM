@@ -117,6 +117,22 @@
         }
 
         public function carregaEstabelecimentos($empresa){
+            if($empresa=="todas")
+            {
+                $query = "SELECT 
+                idEstabelecimento, descEstabelecimento
+            FROM
+                z_sga_Estabelecimento";
+                   $instacias = $this->db->query($query);
+            
+                   if($instacias->rowCount()>0):
+                       return $instacias->fetchAll(PDO::FETCH_ASSOC);
+                   else:
+                       return [];
+                   endif;
+            }
+            else
+            {
             $query = "SELECT 
             idEstabelecimento, descEstabelecimento
         FROM
@@ -136,6 +152,7 @@
                 return [];
             endif;
         }
+    }
 
         public function carregaEstabelecimentosVinculados($empresa){
             $query = "SELECT 
@@ -208,6 +225,7 @@
 
 
         public function gravarRegraModel($dados){
+        
             try{
             
                     $query_Insert = $this->db->prepare(
@@ -238,6 +256,42 @@
             }
         }  
         // acaba aqui
+
+        public function gravarRegra2Model($dados){
+          $emp = $dados['idEmpresa'];
+            try{
+            
+                    $query_Insert = $this->db->prepare(
+                        "INSERT INTO
+                            z_sga_regra_admissao (idEmpresa,idEstabelecimento, idDepartamentoHCM, idUnidadeLotacao, idCentroCusto, idCargoBase, idNivelHierarquico, idFuncao)
+                        VALUES
+                            (:idEmpresa,:idEstabelecimento, :idDepartamentoHCM, :idUnidadeLotacao, :idCentroCusto, :idCargoBase, :idNivelHierarquico, :idFuncao )");
+
+                        foreach($emp as $key => $value):
+                            $query_Insert->bindValue(':idEmpresa',$value);
+                            $query_Insert->bindValue(':idEstabelecimento',$dados['idEstabelecimento']);
+                            $query_Insert->bindValue(':idDepartamentoHCM',$dados['idDepartamentoHCM']);
+                            $query_Insert->bindValue(':idUnidadeLotacao',$dados['idUnidadeLotacao']);
+                            $query_Insert->bindValue(':idCentroCusto',$dados['idCentroCusto']);
+                            $query_Insert->bindValue(':idCargoBase',$dados['idCargoBase']);
+                            $query_Insert->bindValue(':idNivelHierarquico',$dados['idNivelHierarquico']);
+                            $query_Insert->bindValue(':idFuncao',$dados['idFuncao']);
+                            $query_Insert->execute();
+                            $ultimoid = $this->db ->lastInsertId();
+                            $this -> gravarGrupoModel($dados['idGrupo'],$ultimoid);
+                        endforeach;
+
+                        
+                       
+                
+                return array('return' => true);
+            } catch (Exception $e) {
+                return array(
+                    'return' => false,
+                    'erro'   => $e->getMessage()
+                );
+            }
+        }  
 
         public function gravarGrupoModel($arrayId,$id){
          

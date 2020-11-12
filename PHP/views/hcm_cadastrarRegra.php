@@ -35,6 +35,7 @@
                         <label>Empresa:</label>
                         <select name="empresa" class="form-control" id="instancia">
                             <option value=""></option>
+                            <option value="todas">Todas</option>
                             <?php foreach($empresas as $val): ?>
                                 <option value="<?php echo $val['idEmpresa']; ?>"><?php echo $val['razaoSocial'] ;?></option>
                             <?php endforeach; ?>
@@ -241,7 +242,7 @@
        });
 
         $("#btnSalvarRegra").click(function(){
-        if($("#instancia").val()=="")
+        if($("#instancia").val()=="" || $("#estabelecimento").val()=="" || $("#departamento").val()=="" || $("#unlotacao").val()=="" || $("#centrocusto").val()=="" || $("#cargobase").val()=="" || $("#nvlh").val()=="" || $("#gruposadd").find('option').val()==undefined)
         {
             $('#myModalResult .modal-body').html('<h5>Por favor preencha todos os campos</h5>');
             $("#myModalResult").modal('show');
@@ -252,8 +253,37 @@
                 for(var i=0;i<op.length;i++)
                 {
                 arrayOp[i]= op[i].id;
+                }   
+                var arrayEmp = new Array();
+                if($("#instancia").val()=="todas")     
+                {
+                    arrayEmp[0]="1";
+                    arrayEmp[1]="2";
+                    arrayEmp[2]="3";
+    
+                     $.ajax({
+                            type: 'POST',
+                            url: url+'HCM/ajaxGravarRegra2',
+                            data: {'idGrupo': arrayOp,'idEmpresa':arrayEmp,'idEstabelecimento':$("#estabelecimento").val(),'idDepartamentoHCM':$("#departamento").val(),'idUnidadeLotacao':$("#unlotacao").val(),'idCentroCusto':$("#centrocusto").val(), 'idCargoBase':$("#cargobase").val(), 'idNivelHierarquico':$("#nvlh").val(), 'idFuncao':$("#funcaoSistema").val()},
+                            success: function (res) {
+                                $('#myModalResult .modal-body').html('<h5>Nova regra salva com sucesso!</h5>');
+                                $("#myModalResult").modal('show');
+                                $("#estabelecimento").empty();
+                                $("#departamento").empty();
+                                $("#unlotacao").empty();
+                                $("#centrocusto").empty();
+                                $("#cargobase").empty();
+                                $("#nvlh").empty();
+                                $("#funcaoSistema").empty();
+                                $("#gp").empty();
+                                $("#gruposadd").empty();
+                                $("#instancia").val("");
+                                // console.log("essa é a res:"+res);
+
+                                }
+                         });
                 }
-                
+                else{
                 $.ajax({
                 type: 'POST',
                 url: url+'HCM/ajaxGravarRegra',
@@ -275,6 +305,7 @@
                     
                 }
             });
+                }
           
 
         }
