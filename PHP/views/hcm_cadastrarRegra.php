@@ -242,7 +242,7 @@
        });
 
         $("#btnSalvarRegra").click(function(){
-        if($("#instancia").val()=="" || $("#estabelecimento").val()=="" || $("#departamento").val()=="" || $("#unlotacao").val()=="" || $("#centrocusto").val()=="" || $("#cargobase").val()=="" || $("#nvlh").val()=="" || $("#gruposadd").find('option').val()==undefined)
+        if($("#instancia").val()=="" || $("#instancia").val()==null || $("#estabelecimento").val()=="" || $("#estabelecimento").val()==null || $("#departamento").val()=="" || $("#departamento").val()==null || $("#unlotacao").val()=="" || $("#unlotacao").val()==null || $("#centrocusto").val()=="" || $("#centrocusto").val()==null || $("#cargobase").val()=="" ||  $("#cargobase").val()==null || $("#nvlh").val()=="" || $("#nvlh").val()==null || $("#gruposadd").find('option').val()==undefined)
         {
             $('#myModalResult .modal-body').html('<h5>Por favor preencha todos os campos</h5>');
             $("#myModalResult").modal('show');
