@@ -260,24 +260,25 @@
                     arrayEmp[0]="1";
                     arrayEmp[1]="2";
                     arrayEmp[2]="3";
-    
+             
                      $.ajax({
                             type: 'POST',
                             url: url+'HCM/ajaxGravarRegra2',
                             data: {'idGrupo': arrayOp,'idEmpresa':arrayEmp,'idEstabelecimento':$("#estabelecimento").val(),'idDepartamentoHCM':$("#departamento").val(),'idUnidadeLotacao':$("#unlotacao").val(),'idCentroCusto':$("#centrocusto").val(), 'idCargoBase':$("#cargobase").val(), 'idNivelHierarquico':$("#nvlh").val(), 'idFuncao':$("#funcaoSistema").val()},
                             success: function (res) {
-                                $('#myModalResult .modal-body').html('<h5>Nova regra salva com sucesso!</h5>');
-                                $("#myModalResult").modal('show');
-                                $("#estabelecimento").empty();
-                                $("#departamento").empty();
-                                $("#unlotacao").empty();
-                                $("#centrocusto").empty();
-                                $("#cargobase").empty();
-                                $("#nvlh").empty();
-                                $("#funcaoSistema").empty();
-                                $("#gp").empty();
-                                $("#gruposadd").empty();
-                                $("#instancia").val("");
+                                window.location.replace(url+"/HCM/cadastroRegra");
+                                // $('#myModalResult .modal-body').html('<h5>Nova regra salva com sucesso!</h5>');
+                                // $("#myModalResult").modal('show');
+                                // $("#estabelecimento").empty();
+                                // $("#departamento").empty();
+                                // $("#unlotacao").empty();
+                                // $("#centrocusto").empty();
+                                // $("#cargobase").empty();
+                                // $("#nvlh").empty();
+                                // $("#funcaoSistema").empty();
+                                // $("#gp").empty();
+                                // $("#gruposadd").empty();
+                                // $("#instancia").val("");
                                 // console.log("essa é a res:"+res);
 
                                 }

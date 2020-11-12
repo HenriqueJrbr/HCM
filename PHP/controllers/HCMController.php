@@ -236,21 +236,12 @@ class HCMController extends Controller
 
     public function ajaxgravarRegra2(){
         $hcm = new HCM();        
-        $res = $hcm->gravarRegraModel($_POST);
+        $res = $hcm->gravarRegra2Model($_POST);
 
         if($res['return'] == true):
-            $this->helper->setAlert(
-                'success',
-                'Infomações salvas com sucesso!',
-                '/HCM/'
-            );
-            
+            $_SESSION['msg']['success']='Infomações salvas com sucesso!';
         else:
-            $this->helper->setAlert(
-                'error',
-                'Erro ao salvar.\n'.$res['error'],
-                '/HCM/'
-            );
+            $_SESSION['msg']['error']='Erro ao salvar.\n'.$res['error'];                
         endif;
     }
 
