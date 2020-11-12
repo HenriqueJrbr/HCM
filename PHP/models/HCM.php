@@ -138,7 +138,7 @@
         FROM
             z_sga_Estabelecimento
         WHERE
-            idEstabelecimento NOT IN (SELECT 
+            idEstabelecimento IN (SELECT 
                     idEstabelecimento
                 FROM
                     z_sga_estabelecimento_empresa
