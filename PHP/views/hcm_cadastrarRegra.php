@@ -328,7 +328,7 @@
         function carregaEstabelecimentos(idEmpresa){
         $.ajax({
             type: 'POST',
-            url: url+'HCM/ajaxEstabelecimentos',
+            url: url+'HCM/ajaxEstabelecimentos2',
             data: {'idEmpresa':idEmpresa},
             success: function (res) {
                 $('#estabelecimento').html('');

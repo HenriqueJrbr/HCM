@@ -138,7 +138,7 @@
         FROM
             z_sga_Estabelecimento
         WHERE
-            idEstabelecimento IN (SELECT 
+            idEstabelecimento NOT IN (SELECT 
                     idEstabelecimento
                 FROM
                     z_sga_estabelecimento_empresa
@@ -153,6 +153,44 @@
             endif;
         }
     }
+
+    public function carregaEstabelecimentos2($empresa){
+                    if($empresa=="todas")
+                    {
+                        $query = "SELECT 
+                        idEstabelecimento, descEstabelecimento
+                    FROM
+                        z_sga_Estabelecimento";
+                        $instacias = $this->db->query($query);
+                    
+                        if($instacias->rowCount()>0):
+                            return $instacias->fetchAll(PDO::FETCH_ASSOC);
+                        else:
+                            return [];
+                        endif;
+                    }
+                    else
+                    {
+                            $query = "SELECT 
+                            idEstabelecimento, descEstabelecimento
+                        FROM
+                            z_sga_Estabelecimento
+                        WHERE
+                            idEstabelecimento IN (SELECT 
+                                    idEstabelecimento
+                                FROM
+                                    z_sga_estabelecimento_empresa
+                                WHERE
+                                    idEmpresa = $empresa)";
+                            $instacias = $this->db->query($query);
+                            
+                            if($instacias->rowCount()>0):
+                                return $instacias->fetchAll(PDO::FETCH_ASSOC);
+                            else:
+                                return [];
+                            endif;
+                }
+            }
 
         public function carregaEstabelecimentosVinculados($empresa){
             $query = "SELECT 
