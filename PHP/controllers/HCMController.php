@@ -52,6 +52,27 @@ class HCMController extends Controller
         $this->loadTemplate('hcm_cadastrarRegra', $dados);
     }
 
+    public function regras()
+    {
+        if(isset($_POST['ok']) && !empty(['ok']) && isset($_POST['empresa']) && !empty(['empresa']) ){
+            $empresa = new Home();
+            $empresaId = addslashes($_POST['empresa']);
+
+            $dados['descEmpresa'] = $empresa->carregaDescEmpresa($empresaId);
+            $_SESSION['empresaDesc'] = $dados['descEmpresa'][0];
+            $_SESSION['empresaid'] = $empresaId;
+
+
+            header('Location: '.URL);
+        }
+        $empresa = new Home();
+        $hcm = new HCM();
+        $dados['empresas'] = $hcm ->carregaEmpresas();
+
+        $this->loadTemplate('hcm_regras', $dados);
+    }
+
+
     public function cadastroInstancias()
     {
         if(isset($_POST['ok']) && !empty(['ok']) && isset($_POST['empresa']) && !empty(['empresa']) ){
