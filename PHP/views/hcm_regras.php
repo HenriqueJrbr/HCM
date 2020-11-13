@@ -9,7 +9,7 @@
     <div class="col-md-12 col-sm-12 col-xs-12">
         <div class="x_panel">
             <div class="x_title">
-                <h2>Grupos Totvs</h2>
+                <h2>Regras</h2>
                 <ul class="nav navbar-right panel_toolbox">
                     <li><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
                     </li>
@@ -32,23 +32,27 @@
                                 <tr role="row">
                                     <th class="sorting_asc" tabindex="0" aria-controls="datatable-responsive"
                                         rowspan="1" colspan="1" style="width: 5px;" aria-sort="ascending"
-                                        aria-label="First name: activate to sort column descending">ID Grupo
+                                        aria-label="First name: activate to sort column descending">ID Regra
                                     </th>
                                     <th class="sorting" tabindex="0" aria-controls="datatable-responsive" rowspan="1"
                                         colspan="1" style="width: 10px;"
-                                        aria-label="Last name: activate to sort column ascending">Descrição
+                                        aria-label="Last name: activate to sort column ascending">Empresa
                                     </th>
                                     <th class="sorting" tabindex="0" aria-controls="datatable-responsive" rowspan="1"
                                         colspan="1" style="width: 10px;"
-                                        aria-label="Last name: activate to sort column ascending">Quant. Programas
+                                        aria-label="Last name: activate to sort column ascending">Estabelecimento
                                     </th>
                                     <th class="sorting" tabindex="0" aria-controls="datatable-responsive" rowspan="1"
                                         colspan="1" style="width: 10px;"
-                                        aria-label="Position: activate to sort column ascending">Quant. Usuário
+                                        aria-label="Position: activate to sort column ascending">Departamento
                                     </th>
                                     <th class="sorting" tabindex="0" aria-controls="datatable-responsive" rowspan="1"
                                         colspan="1" style="width: 10px;"
-                                        aria-label="Position: activate to sort column ascending">Ação
+                                        aria-label="Position: activate to sort column ascending">Cargo
+                                    </th>
+                                    <th class="sorting" tabindex="0" aria-controls="datatable-responsive" rowspan="1"
+                                        colspan="1" style="width: 10px;"
+                                        aria-label="Position: activate to sort column ascending">Função
                                     </th>
                                 </thead>
                                 <tbody></tbody>
@@ -62,5 +66,5 @@
     </div>
 </div>
 
-<?php $this->helper->scriptDataTable('tabGrupo', 'Grupo/ajaxCarregaGrupo', 'POST', 'false'); ?>
+<?php $this->helper->scriptDataTable('tabGrupo', 'Grupo/ajaxCarregaRegra', 'POST', 'false'); ?>
 

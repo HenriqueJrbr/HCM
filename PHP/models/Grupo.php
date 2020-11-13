@@ -20,6 +20,18 @@ class Grupo extends Model {
             return $array;
       }
 
+      public function carregaRegra(){
+            $sql = "SELECT idRegraAdmissao,idEmpresa,idEstabelecimento,idDepartamentoHCM, idCargoBase, idFuncao 
+            FROM z_sga_regra_admissao";
+            $sql = $this->db->query($sql);
+            $array = array();
+            if($sql->rowCount()>0){
+                  $array = $sql->fetchAll();
+            }
+            return $array;
+      }
+
+    
 
       public function carregaDadosGrupo($idGrupo){
              $idEmpresa = $_SESSION['empresaid'];
@@ -53,6 +65,22 @@ class Grupo extends Model {
             }
             return $dados;
       }
+
+      public function carregaDadosRegra($idRegra){
+           $sql = "
+               SELECT 
+               idRegraAdmissao,idEmpresa,idEstabelecimento,idDepartamentoHCM, idCargoBase, idFuncao
+               FROM
+               z_sga_regra_admissao
+               WHERE                   
+                 idRegraAdmissao= '$idRegra'";
+           $sql = $this->db->query($sql);
+           $dados = array();
+           if($sql->rowCount()>0){
+                 $dados = $sql->fetchAll();
+           }
+           return $dados;
+     }
 
 
       public function carregaGestorGrupo($idGrupo){
