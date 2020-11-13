@@ -70,5 +70,5 @@
     </div>
 </div>
 
-<?php $this->helper->scriptDataTable('tabGrupo', 'Grupo/ajaxCarregaRegra', 'POST', 'false'); ?>
+<?php $this->helper->scriptDataTable('tabGrupo', 'HCM/ajaxCarregaRegra', 'POST', 'false'); ?>
 
