@@ -51,6 +51,26 @@ class HCMController extends Controller
 
         $this->loadTemplate('hcm_cadastrarRegra', $dados);
     }
+    
+    public function carregaRegra($idRegra)
+    {
+        if(isset($_POST['ok']) && !empty(['ok']) && isset($_POST['empresa']) && !empty(['empresa']) ){
+            $empresa = new Home();
+            $empresaId = addslashes($_POST['empresa']);
+
+            $dados['descEmpresa'] = $empresa->carregaDescEmpresa($empresaId);
+            $_SESSION['empresaDesc'] = $dados['descEmpresa'][0];
+            $_SESSION['empresaid'] = $empresaId;
+
+
+            header('Location: '.URL);
+        }
+        $empresa = new Home();
+        $hcm = new HCM();
+        $dados['empresas'] = $hcm ->carregaEmpresas();
+
+        $this->loadTemplate('hcm_cadastrarRegra', $dados);
+    }
 
     public function regras()
     {
@@ -266,6 +286,28 @@ class HCMController extends Controller
         endif;
     }
 
+    public function ajaxCarregaRegra(){
+        $data = array();
+        $g = new HCM();
+
+        $dados['carregaGrupo'] = $g->carregaRegra();
+        foreach ($dados['carregaGrupo'] as $key => $value):
+            $sub_dados = array();
+            $sub_dados[] = $value["idRegraAdmissao"];
+            $sub_dados[] = $value["idEmpresa"];
+            $sub_dados[] = $value["idEstabelecimento"];
+            $sub_dados[] = $value["idDepartamentoHCM"];
+            $sub_dados[] = $value["idCargoBase"];
+            $sub_dados[] = $value["idFuncao"];
+            $sub_dados[] = '<button type="button" class="btn btn-success btn-xs" data-toggle="modal" onclick="location.href=\'' . URL . '/HCM/carregaDadosRegra/' . $value['idRegraAdmissao'] . '\'">Visualizar</button>';
+            $data[] = $sub_dados;
+        endforeach;
+
+        $output = array(
+            "data" => $data
+        );
+        echo json_encode($output);
+    }
     // public function ajaxgravarGrupo(){
     //     $hcm = new HCM();        
     //     $res = $hcm->gravarGrupoModel($_POST);

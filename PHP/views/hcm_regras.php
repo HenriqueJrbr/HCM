@@ -54,6 +54,10 @@
                                         colspan="1" style="width: 10px;"
                                         aria-label="Position: activate to sort column ascending">Função
                                     </th>
+                                    <th class="sorting" tabindex="0" aria-controls="datatable-responsive" rowspan="1"
+                                        colspan="1" style="width: 10px;"
+                                        aria-label="Position: activate to sort column ascending">Ação
+                                    </th>
                                 </thead>
                                 <tbody></tbody>
                             </table>

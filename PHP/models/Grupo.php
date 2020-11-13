@@ -18,20 +18,7 @@ class Grupo extends Model {
                   $array = $sql->fetchAll();
             }
             return $array;
-      }
-
-      public function carregaRegra(){
-            $sql = "SELECT idRegraAdmissao,idEmpresa,idEstabelecimento,idDepartamentoHCM, idCargoBase, idFuncao 
-            FROM z_sga_regra_admissao";
-            $sql = $this->db->query($sql);
-            $array = array();
-            if($sql->rowCount()>0){
-                  $array = $sql->fetchAll();
-            }
-            return $array;
-      }
-
-    
+      }    
 
       public function carregaDadosGrupo($idGrupo){
              $idEmpresa = $_SESSION['empresaid'];

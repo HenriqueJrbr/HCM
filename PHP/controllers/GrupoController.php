@@ -172,29 +172,6 @@ class GrupoController extends Controller {
         echo json_encode($output);
   }
 
-  public function ajaxCarregaRegra(){
-    $data = array();
-      $g = new Grupo();
-
-      $dados['carregaGrupo'] = $g->carregaRegra();
-      foreach ($dados['carregaGrupo'] as $key => $value):
-          $sub_dados = array();
-          $sub_dados[] = $value["idRegraAdmissao"];
-          $sub_dados[] = $value["idEmpresa"];
-          $sub_dados[] = $value["idEstabelecimento"];
-          $sub_dados[] = $value["idDepartamentoHCM"];
-          $sub_dados[] = $value["idCargoBase"];
-          $sub_dados[] = $value["idFuncao"];
-          $sub_dados[] = '<button type="button" class="btn btn-success btn-xs" data-toggle="modal" onclick="location.href=\'' . URL . '/Grupo/carregaDadosRegra/' . $value['idRegraAdmissao'] . '\'">Visualizar</button>';
-          $data[] = $sub_dados;
-      endforeach;
-
-      $output = array(
-          "data" => $data
-      );
-      echo json_encode($output);
-}
-
     /*
     Esta função carrega e monta o datatable da pagina de grupos Usuario http://162.144.118.90:84/sga_v2/carregaDadosGrupo
   */
