@@ -294,11 +294,11 @@ class HCMController extends Controller
         foreach ($dados['carregaGrupo'] as $key => $value):
             $sub_dados = array();
             $sub_dados[] = $value["idRegraAdmissao"];
-            $sub_dados[] = $value["idEmpresa"];
-            $sub_dados[] = $value["idEstabelecimento"];
-            $sub_dados[] = $value["idDepartamentoHCM"];
-            $sub_dados[] = $value["idCargoBase"];
-            $sub_dados[] = $value["idFuncao"];
+            $sub_dados[] = $value["razaoSocial"];
+            $sub_dados[] = $value["descEstabelecimento"];
+            $sub_dados[] = $value["descDepartamentoHCM"];
+            $sub_dados[] = $value["descCargoBase"];
+            $sub_dados[] = $value["descricao"];
             $sub_dados[] = '<button type="button" class="btn btn-success btn-xs" data-toggle="modal" onclick="location.href=\'' . URL . '/HCM/carregaDadosRegra/' . $value['idRegraAdmissao'] . '\'">Visualizar</button>';
             $data[] = $sub_dados;
         endforeach;
@@ -306,6 +306,7 @@ class HCMController extends Controller
         $output = array(
             "data" => $data
         );
+        echo($output);
         echo json_encode($output);
     }
     // public function ajaxgravarGrupo(){

@@ -357,8 +357,13 @@
         }  
 
         public function carregaRegra(){
-            $sql = "SELECT idRegraAdmissao,idEmpresa,idEstabelecimento,idDepartamentoHCM, idCargoBase, idFuncao 
-            FROM z_sga_regra_admissao";
+            $sql = "SELECT A.idRegraAdmissao, B.razaoSocial, C.descEstabelecimento,D.descDepartamentoHCM, E.descCargoBase, F.descricao
+            FROM z_sga_regra_admissao A 
+            INNER JOIN z_sga_empresa B ON B.idEmpresa=A.idEmpresa
+            INNER JOIN z_sga_estabelecimento C ON C.idEstabelecimento = A.idEstabelecimento
+            INNER JOIN z_sga_departamento_hcm D ON D.idDepartamentohcm = A.idDepartamentoHCM
+            INNER JOIN z_sga_cargo_base E ON E.idCargoBase = A.idCargoBase
+            INNER JOIN z_sga_manut_funcao F ON F.idFuncao= A.idFuncao";
             $sql = $this->db->query($sql);
             $array = array();
             if($sql->rowCount()>0){
