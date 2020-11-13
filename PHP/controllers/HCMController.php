@@ -54,21 +54,8 @@ class HCMController extends Controller
     
     public function carregaRegra($idRegra)
     {
-        if(isset($_POST['ok']) && !empty(['ok']) && isset($_POST['empresa']) && !empty(['empresa']) ){
-            $empresa = new Home();
-            $empresaId = addslashes($_POST['empresa']);
-
-            $dados['descEmpresa'] = $empresa->carregaDescEmpresa($empresaId);
-            $_SESSION['empresaDesc'] = $dados['descEmpresa'][0];
-            $_SESSION['empresaid'] = $empresaId;
-
-
-            header('Location: '.URL);
-        }
-        $empresa = new Home();
         $hcm = new HCM();
-        $dados['empresas'] = $hcm ->carregaEmpresas();
-
+        $dados = $hcm ->carregaRegraExistenteModel($idRegra);
         $this->loadTemplate('hcm_cadastrarRegra', $dados);
     }
 
@@ -122,7 +109,7 @@ class HCMController extends Controller
         $hcm=new HCM();
         $dados = $hcm-> carregaEstabelecimentos($empresa);
         $opt="";
-        $opt="<option value=''></option><option id='0' value='todas'>Todos</option>";
+        $opt="<option value=''></option>";
         foreach($dados as $estabelecimentos){
             $opt .= '<option id="'.$estabelecimentos['idEstabelecimento'].'" value="'.$estabelecimentos['idEstabelecimento'].'">'.$estabelecimentos['descEstabelecimento'].'</option>';
             //$opt[] = ['id'=>$estabelecimentos['idEstabelecimento'],'desc'=>$estabelecimentos['descEstabelecimento']];
@@ -136,7 +123,7 @@ class HCMController extends Controller
         $hcm=new HCM();
         $dados = $hcm-> carregaEstabelecimentos2($empresa);
         $opt="";
-        $opt="<option value=''></option><option id='0' value='todas'>Todos</option>";
+            $opt="<option value=''></option>";
         foreach($dados as $estabelecimentos){
             $opt .= '<option id="'.$estabelecimentos['idEstabelecimento'].'" value="'.$estabelecimentos['idEstabelecimento'].'">'.$estabelecimentos['descEstabelecimento'].'</option>';
             //$opt[] = ['id'=>$estabelecimentos['idEstabelecimento'],'desc'=>$estabelecimentos['descEstabelecimento']];
@@ -147,7 +134,7 @@ class HCMController extends Controller
         $hcm=new HCM();
         $dados = $hcm-> carregaCargoBaseModel();
         $opt="";
-       $opt="<option value=''></option><option id='0' value='todas'>Todos</option>";
+           $opt="<option value=''></option>";
         foreach($dados as $estabelecimentos){
             $opt .= '<option id="'.$estabelecimentos['idCargoBase'].'" value="'.$estabelecimentos['idCargoBase'].'">'.$estabelecimentos['descCargoBase'].'</option>';
             //$opt[] = ['id'=>$estabelecimentos['idEstabelecimento'],'desc'=>$estabelecimentos['descEstabelecimento']];
@@ -159,7 +146,7 @@ class HCMController extends Controller
         $hcm=new HCM();
         $dados = $hcm-> carregaGruposModel();
         $opt="";
-       $opt="<option value=''></option><option id='0' value='todas'>Todos</option>";
+           $opt="<option value=''></option>";
         foreach($dados as $estabelecimentos){
             $opt .= '<option id="'.$estabelecimentos['idGrupo'].'" value="'.$estabelecimentos['idGrupo'].'">'.$estabelecimentos['descAbrev'].'</option>';
             //$opt[] = ['id'=>$estabelecimentos['idEstabelecimento'],'desc'=>$estabelecimentos['descEstabelecimento']];
@@ -171,7 +158,7 @@ class HCMController extends Controller
         $hcm=new HCM();
         $dados = $hcm-> carregaDepartamentoModel();
         $opt="";
-       $opt="<option value=''></option><option id='0' value='todas'>Todos</option>";
+           $opt="<option value=''></option>";
         foreach($dados as $estabelecimentos){
             $opt .= '<option id="'.$estabelecimentos['idDepartamentohcm'].'" value="'.$estabelecimentos['idDepartamentohcm'].'">'.$estabelecimentos['descDepartamentoHCM'].'</option>';
             //$opt[] = ['id'=>$estabelecimentos['idEstabelecimento'],'desc'=>$estabelecimentos['descEstabelecimento']];
@@ -183,7 +170,7 @@ class HCMController extends Controller
         $hcm=new HCM();
         $dados = $hcm-> carregaCentroCustoModel();
         $opt="";
-       $opt="<option value=''></option><option id='0' value='todas'>Todos</option>";
+           $opt="<option value=''></option>";
         foreach($dados as $estabelecimentos){
             $opt .= '<option id="'.$estabelecimentos['idCentroCusto'].'" value="'.$estabelecimentos['idCentroCusto'].'">'.$estabelecimentos['descCentroCusto'].'</option>';
             //$opt[] = ['id'=>$estabelecimentos['idEstabelecimento'],'desc'=>$estabelecimentos['descEstabelecimento']];
@@ -195,7 +182,7 @@ class HCMController extends Controller
         $hcm=new HCM();
         $dados = $hcm-> carregaUnLotacaoModel();
         $opt="";
-       $opt="<option value=''></option><option id='0' value='todas'>Todos</option>";
+           $opt="<option value=''></option>";
         foreach($dados as $estabelecimentos){
             $opt .= '<option id="'.$estabelecimentos['idUnidadeLotacao'].'" value="'.$estabelecimentos['idUnidadeLotacao'].'">'.$estabelecimentos['desc_unidade_lotacao'].'</option>';
             //$opt[] = ['id'=>$estabelecimentos['idEstabelecimento'],'desc'=>$estabelecimentos['descEstabelecimento']];
@@ -207,7 +194,7 @@ class HCMController extends Controller
         $hcm=new HCM();
         $dados = $hcm-> carregaFuncaoModel();
         $opt="";
-       $opt="<option value=''></option><option id='0' value='todas'>Todos</option>";
+           $opt="<option value=''></option>";
         foreach($dados as $estabelecimentos){
             $opt .= '<option id="'.$estabelecimentos['idFuncao'].'" value="'.$estabelecimentos['idFuncao'].'">'.$estabelecimentos['descricao'].'</option>';
             //$opt[] = ['id'=>$estabelecimentos['idEstabelecimento'],'desc'=>$estabelecimentos['descEstabelecimento']];
@@ -219,7 +206,7 @@ class HCMController extends Controller
         $hcm=new HCM();
         $dados = $hcm-> carregaNvlHierModel();
         $opt="";
-       $opt="<option value=''></option><option id='0' value='todas'>Todos</option>";
+           $opt="<option value=''></option>";
         foreach($dados as $estabelecimentos){
             $opt .= '<option id="'.$estabelecimentos['idNivelHierarquico'].'" value="'.$estabelecimentos['idNivelHierarquico'].'">'.$estabelecimentos['descNivelHierarquico'].'</option>';
             //$opt[] = ['id'=>$estabelecimentos['idEstabelecimento'],'desc'=>$estabelecimentos['descEstabelecimento']];
@@ -233,7 +220,7 @@ class HCMController extends Controller
         $hcm=new HCM();
         $dados = $hcm-> carregaEstabelecimentosVinculados($empresa);
         $opt="";
-       $opt="<option value=''></option><option id='0' value='todas'>Todos</option>";
+           $opt="<option value=''></option>";
         $ids = array();
         $retorno= array();
         foreach($dados as $estabelecimentos){
@@ -299,14 +286,14 @@ class HCMController extends Controller
             $sub_dados[] = $value["descDepartamentoHCM"];
             $sub_dados[] = $value["descCargoBase"];
             $sub_dados[] = $value["descricao"];
-            $sub_dados[] = '<button type="button" class="btn btn-success btn-xs" data-toggle="modal" onclick="location.href=\'' . URL . '/HCM/carregaDadosRegra/' . $value['idRegraAdmissao'] . '\'">Visualizar</button>';
+            $sub_dados[] = '<button type="button" class="btn btn-success btn-xs" data-toggle="modal" onclick="location.href=\'' . URL . '/HCM/carregaRegra/' . $value['idRegraAdmissao'] . '\'">Visualizar</button>';
             $data[] = $sub_dados;
         endforeach;
 
         $output = array(
             "data" => $data
         );
-        echo($output);
+  
         echo json_encode($output);
     }
     // public function ajaxgravarGrupo(){
