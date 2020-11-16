@@ -359,19 +359,25 @@
         public function carregaRegraExistenteModel($id)
         {
             try{
-            $query_Insert = $this->db->prepare("SELECT A.idRegraAdmissao, B.razaoSocial, C.descEstabelecimento,D.descDepartamentoHCM, E.descCargoBase, F.descricao, G.desc_unidade_lotacao, H.descNivelHierarquico
-            FROM z_sga_regra_admissao A 
-            INNER JOIN z_sga_empresa B ON B.idEmpresa=A.idEmpresa
-            INNER JOIN z_sga_estabelecimento C ON C.idEstabelecimento = A.idEstabelecimento
-            INNER JOIN z_sga_departamento_hcm D ON D.idDepartamentohcm = A.idDepartamentoHCM
-            INNER JOIN z_sga_cargo_base E ON E.idCargoBase = A.idCargoBase
-            INNER JOIN z_sga_manut_funcao F ON F.idFuncao= A.idFuncao 
-            INNER JOIN z_sga_unidade_lotacao G ON G.idUnidadeLotacao= A.idUnidadeLotacao 
-            INNER JOIN z_sga_nivel_hierarquico H ON H.idNivelHierarquico= A.idNivelHierarquico 
-            WHERE idRegraAdmissao=:id");
-            $query_Insert->bindValue(':id',$id);
-            $query_Insert->execute();
-            return array('return' => true);
+            $query_Select = $this->db->prepare(
+            "SELECT 
+            idRegraAdmissao,
+            idEmpresa,
+            idEstabelecimento,
+            idDepartamentoHCM,
+            idUnidadeLotacao,
+            idCentroCusto,
+            idCargoBase,
+            idNivelHierarquico,
+            idFuncao
+        FROM
+            z_sga_regra_admissao
+        WHERE
+            idRegraAdmissao = :id");
+            $query_Select->bindValue(':id',$id);
+            $query_Select->execute();
+
+            return $query_Select->fetchAll();
             } catch (Exception $e) {
                 return array(
                     'return' => false,

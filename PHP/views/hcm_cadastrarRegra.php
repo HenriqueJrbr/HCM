@@ -36,27 +36,36 @@
                         <select name="empresa" class="form-control" id="instancia">
                             <option value=""></option>
                             <option value="todas">Todas</option>
-                            <?php foreach($empresas as $val): ?>
+                            <?php foreach($empresas as $val):
+                                if($val['idEmpresa']==$selecionados[0]['idEmpresa']): ?>
+                                <option value="<?php echo $val['idEmpresa']; ?>" selected><?php echo $val['razaoSocial'] ;?></option>
+                                <?php else: ?>
                                 <option value="<?php echo $val['idEmpresa']; ?>"><?php echo $val['razaoSocial'] ;?></option>
-                            <?php endforeach; ?>
+                                <?php endif; endforeach; ?>
                         </select>
                     </div>
                     <div class="col-md-4">
                         <label>Estabelecimento:</label>
                         <select name="empresa" class="form-control" id="estabelecimento">
                             <option value=""></option>
-                            <?php foreach($instancias as $val): ?>
-                                <option value="<?php echo $val['idEmpresa']; ?>"><?php echo $val['razaoSocial'] ;?></option>
-                            <?php endforeach; ?>
+                            <?php foreach($estabelecimentos as $val):
+                                if($val['idEstabelecimento']==$selecionados[0]['idEstabelecimento']): ?>
+                                <option value="<?php echo $val['idEstabelecimento']; ?>" selected><?php echo $val['descEstabelecimento'] ;?></option>
+                                <?php else: ?>
+                                <option value="<?php echo $val['idEstabelecimento']; ?>"><?php echo $val['descEstabelecimento'] ;?></option>
+                            <?php endif; endforeach; ?>
                         </select>
                     </div>
                     <div class="col-md-4">
                         <label>Departamento:</label>
                         <select name="empresa" class="form-control" id="departamento">
                             <option value=""></option>
-                            <?php foreach($instancias as $val): ?>
-                                <option value="<?php echo $val['idEmpresa']; ?>"><?php echo $val['razaoSocial'] ;?></option>
-                            <?php endforeach; ?>
+                            <?php foreach($departamentos as $val):
+                                if($val['idDepartamento']==$selecionados[0]['idDepartamento']): ?>
+                                <option value="<?php echo $val['idDepartamento']; ?>" selected><?php echo $val['descDepartamentoHCM'] ;?></option>
+                                <?php else: ?>
+                                <option value="<?php echo $val['idDepartamento']; ?>"><?php echo $val['descDepartamentoHCM'] ;?></option>
+                            <?php endif; endforeach; ?>
                         </select>
                     </div>
                 </div>

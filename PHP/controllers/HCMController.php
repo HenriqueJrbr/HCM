@@ -55,7 +55,11 @@ class HCMController extends Controller
     public function carregaRegra($idRegra)
     {
         $hcm = new HCM();
-        $dados = $hcm ->carregaRegraExistenteModel($idRegra);
+        $dados['selecionados']= $this->receberSelecionados($idRegra);
+        $dados['empresas'] = $hcm ->carregaEmpresas();
+        $dados['estabelecimentos'] = $hcm->carregaEstabelecimentos2($dados['selecionados'][0]['idEmpresa']);
+        $dados['departamentos'] = $hcm -> carregaDepartamentoModel();
+        
         $this->loadTemplate('hcm_cadastrarRegra', $dados);
     }
 
@@ -100,9 +104,16 @@ class HCMController extends Controller
             $hcm = new HCM();
             // $dados['instancias'] = $hcm->carregaInstancias();
             $dados['empresas'] = $hcm ->carregaEmpresas();
+            
         $this->loadTemplate('hcm_empresaxestabelecimento', $dados);
     }
 
+    public function receberSelecionados($id){
+        $hcm = new HCM();
+        $idsSelecionados = $hcm->carregaRegraExistenteModel($id);
+        return $idsSelecionados;
+    }
+    
     public function ajaxEstabelecimentos(){
         $post=$_POST;
         $empresa = $post['idEmpresa'];
